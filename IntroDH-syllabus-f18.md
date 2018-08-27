@@ -5,7 +5,7 @@ Fall 2018\
 CUNY Graduate Center\
 Tuesdays 4:15pm--6:15pm - Room 3207
 
-##Faculty 
+## Faculty 
 
 **Dr. Stephen Brier**\
 sbrier\@gc.cuny.edu\
@@ -26,7 +26,7 @@ Email the class: dhintro18\@groups.commons.gc.cuny.edu\
 Patrick Smyth (MA in DH);\
 Agustin Ignacio (MS in Data Analysis/Vis)
 
-### Course Overview
+## Course Overview
 
 "Introduction to Digital Humanities" is the first course in a year-long, two course sequence classes that aims to introduce students to the landscape of digital humanities tools and methods through readings and classroom and online discussions, lectures offered by prominent scholars and technologists, hands-on workshops, and collaborative projects. Students enrolled in the two-course sequence will complete their first year at the GC having been introduced to a broad range of ways to critically evaluate and to incorporate digital technologies into their academic research and teaching. In addition, they will have explored both the general field and a particular area of digital scholarship and/or pedagogy of interest to them, produced a digital project in collaboration with fellow students, and learned how to present their digital work effectively.
 
@@ -48,10 +48,10 @@ The two connected three-credit courses will be offered during the Fall and Sprin
 
 Students in the course should complete the following work during the semester:
 
-**Reading and Discussion (Weekly)**\
+#### Reading and Discussion (Weekly)
 Students should complete all weekly readings in advance of the class meeting and should take an active part in class discussions.
 
-**Blogging (5 posts)**
+#### Blogging (5 posts)
 
 -   Students are responsible for writing five blog posts on our shared course blog. These should be posted by Friday night so that peers have the weekend to respond before Tuesday's class.
 
@@ -67,11 +67,11 @@ Students should complete all weekly readings in advance of the class meeting and
 
 -   Students are encouraged to live-tweet their readings, workshops, class discussions, or other events of interest to [\#dhintro18]
 
-**Workshops (3 workshops)**
+#### Workshops (3 workshops)
 
 -   In connection with (GC Digital Initiatives)\[http://cuny.is/cunygcdi\], we will be offering skills workshops throughout the semester (<https://digitalfellows.commons.gc.cuny.edu/events/>). Students are responsible for attending a minimum of three workshops over the course of the semester. You are free to go to as many as you'd like pending space limitations. To satisfy this requirement, students can also attend workshops offered by the Interactive Technology and Pedagogy Program, the Teaching and Learning Center, the GC Library, and the Quantitative Research Center.
 
-**Praxis Assignments (2 Assignments)**
+#### Praxis Assignments (2 Assignments)
 
 During the semester, we will ask you to choose two of three praxis assignments to complete. These exercises are meant to be beginner-level; our interest in having you complete them lies in getting you to experiment with new tools. Your results do not have to be necessarily significant or meaningful; the important thing is to engage the activity and gain a better understanding of the kinds of choices one must make when undertaking such a project. We ask you to think, too, about both the strengths and the limitations of the tools you are trying out.
 
@@ -88,9 +88,10 @@ Assignment options:
 3.  Network Analysis Assignment (Due Nov 6)\
     Identify or create a dataset of interest and explore it using a network analysis tool such as Gephi (<https://gephi.org/>) or Palladio (http://hdlab.stanford.edu/palladio). Further resources may be found on the [DH\@Berkeley site] and [this page created by Miriam Posner].
 
-**Final Projects:** Students may choose between **a)** writing a conventional seminar paper related to some aspect of our course readings; or **b)** crafting a formal proposal for a digital project that might be executed with a team of students during the spring semester. Guidelines for the proposal will be distributed later in the semester.
+#### Final Projects:
+Students may choose between **a)** writing a conventional seminar paper related to some aspect of our course readings; or **b)** crafting a formal proposal for a digital project that might be executed with a team of students during the spring semester. Guidelines for the proposal will be distributed later in the semester.
 
-**Grading**
+#### Grading
 
 Regular participation in discussions across the range of our face-to-face and online course spaces is essential.
 
@@ -98,21 +99,21 @@ Regular participation in discussions across the range of our face-to-face and on
 
 -   Final project (70%)
 
-**Accounts**
+#### Accounts
 
 All students should register for accounts on the following sites: [CUNY Academic Commons], [Twitter], and [Zotero] (the library staff offers several very good intro workshops on Zotero that you are encouraged to attend).
 
 Remember that when you register for social-networking accounts, you do not have to use your full name or even your real name. One benefit of writing publicly under your real name is that you can begin to establish a public academic identity and to network with others in your field. However, keep in mind that search engines have extended the life of online work; if you are not sure that you want your work for this course to be part of your permanently searchable identity trail on the web, you should strongly consider creating a digital alias. Whether you engage social media under your real name or whether you construct a new online identity, please consider the ways in which social media can affect your career in both positive and negative ways.
 
-**Books to Purchase:**
+#### Books to Purchase:
 
 You are not required to purchase any books for this course \-- all readings will be circulated via links on the web or via PDF. Should you wish to purchase some of the books we will spend significant amounts of time discussing, we encourage you to purchase books [via this link], which costs you nothing but nets a 5 percent contribution to the Mina Rees Library for book and electronic resource purchases for the benefit of all GC students. Three such books are:
 
--   Fitzpatrick, Kathleen. *Planned Obsolescence: Publishing, Technology, and the Future of the Academy*. New York: New York University Press, 2011.
+* Fitzpatrick, Kathleen. *Planned Obsolescence: Publishing, Technology, and the Future of the Academy*. New York: New York University Press, 2011.
 
--   Gold, Matthew K. *Debates in the Digital Humanities*. Minneapolis: University of Minnesota Press, 2012 \-- available for free online at <http://dhdebates.gc.cuny.edu>
+* Gold, Matthew K. *Debates in the Digital Humanities*. Minneapolis: University of Minnesota Press, 2012 \-- available for free online at <http://dhdebates.gc.cuny.edu>
 
--   Gold, Matthew K, and Lauren F. Klein. *Debates in the Digital Humanities: 2016*, Minneapolis: University of Minnesota Press, 2016 \-- available for free online at <http://dhdebates.gc.cuny.edu>
+* Gold, Matthew K, and Lauren F. Klein. *Debates in the Digital Humanities: 2016*, Minneapolis: University of Minnesota Press, 2016 \-- available for free online at <http://dhdebates.gc.cuny.edu>
 
 Readings marked (PDF) will be made available via the Files section of our course group.
 
@@ -124,18 +125,18 @@ Readings marked (PDF) will be made available via the Files section of our course
 Required:
 
 From the *[Debates in the Digital Humanities]* Series:\
-\* Introduction (2012) - <http://dhdebates.gc.cuny.edu/debates/text/2>\
-\* Introduction (2016) - <http://dhdebates.gc.cuny.edu/debates/text/51>\
-\* Introduction (Draft) (2019) (PDF)\
-\* Matthew Kirschenbaum, "What Is Digital Humanities and What's It Doing in English Departments?" <http://dhdebates.gc.cuny.edu/debates/text/38>\
-\* Matthew Kirschenbaum, ["Digital Humanities As/Is a Tactical Term"]\
-\* Kathleen Fitzpatrick, "The Humanities, Done Digitally" - <http://dhdebates.gc.cuny.edu/debates/text/30>\
-\* Lisa Spiro, ""This Is Why We Fight": Defining the Values of the Digital Humanities" - <http://dhdebates.gc.cuny.edu/debates/text/13>\
-\* Rafael Alvarado, "The Digital Humanities Situation" - <http://dhdebates.gc.cuny.edu/debates/text/50>\
-\* Timothy Burke, "The Humane Digital" - <http://dhdebates.gc.cuny.edu/debates/text/91>\
-\* Stephen Ramsay, "Humane Computation" - <http://dhdebates.gc.cuny.edu/debates/text/94>\
-\
-\* Susan Hockey, ["The History of Humanities Computing"] from *A Companion to Digital Humanities*
+* Introduction (2012) - <http://dhdebates.gc.cuny.edu/debates/text/2>\
+* Introduction (2016) - <http://dhdebates.gc.cuny.edu/debates/text/51>\
+* Introduction (Draft) (2019) (PDF)\
+* Matthew Kirschenbaum, "What Is Digital Humanities and What's It Doing in English Departments?" <http://dhdebates.gc.cuny.edu/debates/text/38>\
+* Matthew Kirschenbaum, ["Digital Humanities As/Is a Tactical Term"]\
+* Kathleen Fitzpatrick, "The Humanities, Done Digitally" - <http://dhdebates.gc.cuny.edu/debates/text/30>\
+* Lisa Spiro, ""This Is Why We Fight": Defining the Values of the Digital Humanities" - <http://dhdebates.gc.cuny.edu/debates/text/13>\
+* Rafael Alvarado, "The Digital Humanities Situation" - <http://dhdebates.gc.cuny.edu/debates/text/50>\
+* Timothy Burke, "The Humane Digital" - <http://dhdebates.gc.cuny.edu/debates/text/91>\
+* Stephen Ramsay, "Humane Computation" - <http://dhdebates.gc.cuny.edu/debates/text/94>\
+
+* Susan Hockey, ["The History of Humanities Computing"] from *A Companion to Digital Humanities*
 
 Recommended:
 
