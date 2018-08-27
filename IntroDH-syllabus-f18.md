@@ -22,9 +22,9 @@ Course Hashtag: \#dhintro18\
 Email the class: dhintro18\@groups.commons.gc.cuny.edu\
 \
 \
-**Advisory Fellows:**\
-Patrick Smyth (MA in DH);\
-Agustin Ignacio (MS in Data Analysis/Vis)
+### Advisory Fellows:
+* Patrick Smyth (MA in DH) - patricksmyth01@gmail.com
+* Agustin Ignacio (MS in Data Analysis/Vis) - aindaco@gmail.com
 
 ## Course Overview
 
