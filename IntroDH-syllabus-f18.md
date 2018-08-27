@@ -1,9 +1,15 @@
 # Introduction to Digital Humanities
 
-DHUM 70000 / IDS 81660 / MALS 75400\
-Fall 2018\
-CUNY Graduate Center\
-Tuesdays 4:15pm--6:15pm - Room 3207
+## Course Info
+* DHUM 70000 / IDS 81660 / MALS 75400\
+* Fall 2018\
+* CUNY Graduate Center\
+* Tuesdays 4:15pm--6:15pm - Room 3207
+
+* Course Blog: http://dhintro18\
+* Course Group: http://dhintro18group\
+* Course Hashtag: \#dhintro18\
+* Email the class: dhintro18\@groups.commons.gc.cuny.edu\
 
 ## Faculty 
 
@@ -16,15 +22,10 @@ mgold\@gc.cuny.edu\
 http://mkgold.net\
 \@mkgold
 
-* Course Blog: http://dhintro18\
-* Course Group: http://dhintro18group\
-* Course Hashtag: \#dhintro18\
-* Email the class: dhintro18\@groups.commons.gc.cuny.edu\
-
-
 ### Advisory Fellows:
 * Patrick Smyth (MA in DH) - patricksmyth01@gmail.com
 * Agustin Ignacio (MS in Data Analysis/Vis) - aindaco@gmail.com
+
 
 ## Course Overview
 
