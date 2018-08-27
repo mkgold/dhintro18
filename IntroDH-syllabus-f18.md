@@ -14,12 +14,12 @@
 ## Faculty 
 
 **Dr. Stephen Brier**\
-sbrier\@gc.cuny.edu
+sbrier\@gc.cuny.edu \ 
 [https://twitter.com/@stevebrier](@stevebrier)
 
 **Dr. Matthew K. Gold**\
-mgold\@gc.cuny.edu
-http://mkgold.net
+mgold\@gc.cuny.edu\
+http://mkgold.net\
 [https://twitter.com/@mkgold](@mkgold)
 
 ### Advisory Fellows:
