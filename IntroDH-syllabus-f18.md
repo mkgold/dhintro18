@@ -15,12 +15,12 @@
 
 **Dr. Stephen Brier**\
 sbrier\@gc.cuny.edu\
-\@stevebrier
+[https://twitter.com/@stevebrier](@stevebrier)
 
 **Dr. Matthew K. Gold**\
 mgold\@gc.cuny.edu\
 http://mkgold.net\
-\@mkgold
+[https://twitter.com/@mkgold](@mkgold)
 
 ### Advisory Fellows:
 * Patrick Smyth (MA in DH) - patricksmyth01@gmail.com
