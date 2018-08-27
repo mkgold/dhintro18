@@ -14,7 +14,7 @@
 ## Faculty 
 
 **Dr. Stephen Brier**\
-sbrier\@gc.cuny.edu\ 
+sbrier\@gc.cuny.edu\
 [@stevebrier](https://twitter.com/@stevebrier)
 
 **Dr. Matthew K. Gold**\
