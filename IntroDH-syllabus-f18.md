@@ -16,12 +16,12 @@ mgold\@gc.cuny.edu\
 http://mkgold.net\
 \@mkgold
 
-Course Blog: http://dhintro18\
-Course Group: http://dhintro18group\
-Course Hashtag: \#dhintro18\
-Email the class: dhintro18\@groups.commons.gc.cuny.edu\
-\
-\
+* Course Blog: http://dhintro18\
+* Course Group: http://dhintro18group\
+* Course Hashtag: \#dhintro18\
+* Email the class: dhintro18\@groups.commons.gc.cuny.edu\
+
+
 ### Advisory Fellows:
 * Patrick Smyth (MA in DH) - patricksmyth01@gmail.com
 * Agustin Ignacio (MS in Data Analysis/Vis) - aindaco@gmail.com
