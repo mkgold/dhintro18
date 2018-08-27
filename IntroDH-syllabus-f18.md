@@ -1,12 +1,11 @@
-Introduction to Digital Humanities
-----------------------------------
+# Introduction to Digital Humanities
 
 DHUM 70000 / IDS 81660 / MALS 75400\
 Fall 2018\
 CUNY Graduate Center\
 Tuesdays 4:15pm--6:15pm - Room 3207
 
-**Faculty**
+##Faculty 
 
 **Dr. Stephen Brier**\
 sbrier\@gc.cuny.edu\
