@@ -20,7 +20,7 @@ sbrier\@gc.cuny.edu\
 **Dr. Matthew K. Gold**\
 mgold\@gc.cuny.edu\
 http://mkgold.net\
-[https://twitter.com/@mkgold](@mkgold)
+ [https://twitter.com/@mkgold](@mkgold)
 
 ### Advisory Fellows:
 * Patrick Smyth (MA in DH) - patricksmyth01@gmail.com
