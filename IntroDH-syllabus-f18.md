@@ -15,7 +15,8 @@ Email the class: dhintro18@groups.commons.gc.cuny.edu
 
 **Dr. Stephen Brier**  
 sbrier@gc.cuny.edu  
-[@stevebrier](https://twitter.com/@stevebrier)
+[@stevebrier](https://twitter.com/@stevebrier)  
+Office hours: T 3pm-4pm and by appointment
 
 **Dr. Matthew K. Gold**  
 mgold@gc.cuny.edu  
