@@ -11,7 +11,7 @@ Course Group: http://cuny.is/dhintro18group
 Course Hashtag: #dhintro18  
 Email the class: dhintro18@groups.commons.gc.cuny.edu
 
-## Faculty 
+### Faculty 
 
 **Dr. Stephen Brier**  
 sbrier@gc.cuny.edu  
@@ -20,10 +20,10 @@ sbrier@gc.cuny.edu
 **Dr. Matthew K. Gold**  
 mgold@gc.cuny.edu  
 [mkgold.net](http://mkgold.net)  
-[@mkgold](https://twitter.com/@mkgold)
+[@mkgold](https://twitter.com/@mkgold)  
 Office hours: M 11am-12pm and by appointment  
 
-### Advisory Fellows:
+#### Advisory Fellows:
 * Patrick Smyth (MA in DH) - patricksmyth01@gmail.com
 * Agustin Ignacio (MS in Data Analysis/Vis) - aindaco@gmail.com
 
@@ -119,7 +119,7 @@ Remember that when you register for social-networking accounts, you do not have 
 
 Readings marked (PDF) will be made available via the Files section of our course group.
 
-### Course Schedule (subject to change)
+## Course Schedule (subject to change)
 
 **August 28 - Introductions**
 
