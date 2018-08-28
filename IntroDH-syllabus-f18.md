@@ -1,7 +1,7 @@
 # Introduction to Digital Humanities
 
 ## Course Info
-**DHUM 70000 / IDS 81660 / MALS 75400  **
+**DHUM 70000 / IDS 81660 / MALS 75400**  
 Fall 2018  
 CUNY Graduate Center  
 Tuesdays 4:15pm--6:15pm - Room 3207
