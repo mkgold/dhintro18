@@ -70,7 +70,7 @@ Students should complete all weekly readings in advance of the class meeting and
 
 #### Workshops (3 workshops)
 
--   In connection with (GC Digital Initiatives)[http://cuny.is/cunygcdi], we will be offering skills workshops throughout the semester (<https://digitalfellows.commons.gc.cuny.edu/events/>). Students are responsible for attending a minimum of three workshops over the course of the semester. You are free to go to as many as you'd like pending space limitations. To satisfy this requirement, students can also attend workshops offered by the Interactive Technology and Pedagogy Program, the Teaching and Learning Center, the GC Library, and the Quantitative Research Center.
+-   In connection with [GC Digital Initiatives](http://cuny.is/cunygcdi), we will be offering skills workshops throughout the semester (<https://digitalfellows.commons.gc.cuny.edu/events/>). Students are responsible for attending a minimum of three workshops over the course of the semester. You are free to go to as many as you'd like pending space limitations. To satisfy this requirement, students can also attend workshops offered by the Interactive Technology and Pedagogy Program, the Teaching and Learning Center, the GC Library, and the Quantitative Research Center.
 
 #### Praxis Assignments (2 Assignments)
 
