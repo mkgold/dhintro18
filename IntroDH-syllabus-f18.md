@@ -102,7 +102,7 @@ Regular participation in discussions across the range of our face-to-face and on
 
 #### Accounts
 
-All students should register for accounts on the following sites: [CUNY Academic Commons], [Twitter], [Github], and [Zotero] (the library staff offers several very good intro workshops on Zotero that you are encouraged to attend).
+All students should register for accounts on the following sites: [CUNY Academic Commons], [Twitter], [http://github.com](Github), and [Zotero] (the library staff offers several very good intro workshops on Zotero that you are encouraged to attend).
 
 Remember that when you register for social-networking accounts, you do not have to use your full name or even your real name. One benefit of writing publicly under your real name is that you can begin to establish a public academic identity and to network with others in your field. However, keep in mind that search engines have extended the life of online work; if you are not sure that you want your work for this course to be part of your permanently searchable identity trail on the web, you should strongly consider creating a digital alias. Whether you engage social media under your real name or whether you construct a new online identity, please consider the ways in which social media can affect your career in both positive and negative ways.
 
