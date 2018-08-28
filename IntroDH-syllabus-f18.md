@@ -1,25 +1,25 @@
 # Introduction to Digital Humanities
 
 ## Course Info
-DHUM 70000 / IDS 81660 / MALS 75400
+DHUM 70000 / IDS 81660 / MALS 75400  
 Fall 2018  
-CUNY Graduate Center
+CUNY Graduate Center  
 Tuesdays 4:15pm--6:15pm - Room 3207
 
-Course Blog: http://dhintro18
-Course Group: http://dhintro18group
-Course Hashtag: \#dhintro18
+Course Blog: http://dhintro18  
+Course Group: http://dhintro18group  
+Course Hashtag: \#dhintro18  
 Email the class: dhintro18\@groups.commons.gc.cuny.edu
 
 ## Faculty 
 
-**Dr. Stephen Brier**\
-sbrier\@gc.cuny.edu\
+**Dr. Stephen Brier**  
+sbrier\@gc.cuny.edu  
 [@stevebrier](https://twitter.com/@stevebrier)
 
-**Dr. Matthew K. Gold**\
-mgold\@gc.cuny.edu\
-[mkgold.net](http://mkgold.net)\
+**Dr. Matthew K. Gold**  
+mgold\@gc.cuny.edu  
+[mkgold.net](http://mkgold.net)  
 [@mkgold](https://twitter.com/@mkgold)
 
 ### Advisory Fellows:
