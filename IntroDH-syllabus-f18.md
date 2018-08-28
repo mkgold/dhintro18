@@ -87,7 +87,7 @@ Assignment options:
     Create a map of a novel, an author's works, or some other data using Google Maps, CartoDB, ARCGIS StoryMaps, or another mapping platform. Blog about your project
 
 3.  Network Analysis Assignment (Due Nov 6)
-    Identify or create a dataset of interest and explore it using a network analysis tool such as Gephi (<https://gephi.org/>) or Palladio (http://hdlab.stanford.edu/palladio). Further resources may be found on the [DH@Berkeley site] and [this page created by Miriam Posner].
+    Identify or create a dataset of interest and explore it using a network analysis tool such as [Gephi](https://gephi.org/) or [Palladio](http://hdlab.stanford.edu/palladio). Further resources may be found on the [DH@Berkeley site] and [this page created by Miriam Posner].
 
 #### Final Projects:
 Students may choose between **a)** writing a conventional seminar paper related to some aspect of our course readings; or **b)** crafting a formal proposal for a digital project that might be executed with a team of students during the spring semester. Guidelines for the proposal will be distributed later in the semester.
