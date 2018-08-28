@@ -21,6 +21,7 @@ sbrier@gc.cuny.edu
 mgold@gc.cuny.edu  
 [mkgold.net](http://mkgold.net)  
 [@mkgold](https://twitter.com/@mkgold)
+Office hours: M 11am-12pm and by appointment  
 
 ### Advisory Fellows:
 * Patrick Smyth (MA in DH) - patricksmyth01@gmail.com
