@@ -25,13 +25,20 @@ mgold@gc.cuny.edu
 Office hours: M 11am-12pm and by appointment  
 
 #### Advisory Fellows:
-* Patrick Smyth (MA in DH) - patricksmyth01@gmail.com
-* Agustin Ignacio (MS in Data Analysis/Vis) - aindaco@gmail.com
 
+**Patrick Smyth (MA in DH)**  
+patricksmyth01@gmail.com  
+[@psmyth01](https://twitter.com/psmyth01)  
+Office hours: M 5:30-6:30 T 3:00-4:00  
+
+**Agustín Indaco (MS in Data Analysis/Vis)**  
+aindaco@gmail.com  
+[@agustindaco](https://twitter.com/agustindaco?lang=en)  
+Office hours: M 5:30-6:30  
 
 ## Course Overview
 
-"Introduction to Digital Humanities" is the first course in a year-long, two-course sequence classes that aims to introduce students to the landscape of digital humanities tools and methods through readings and classroom and online discussions, lectures offered by prominent scholars and technologists, hands-on workshops, and collaborative projects. Students enrolled in the two-course sequence will complete their first year at the GC having been introduced to a broad range of ways to critically evaluate and to incorporate digital technologies into their academic research and teaching. In addition, they will have explored both the general field and a particular area of digital scholarship and/or pedagogy of interest to them, produced a digital project in collaboration with fellow students, and learned how to present their digital work effectively.
+"Introduction to Digital Humanities" is the first course in a year-long, two-course sequence of classes that aims to introduce students to the landscape of digital humanities tools and methods through readings and classroom and online discussions, lectures offered by prominent scholars and technologists, hands-on workshops, and collaborative projects. Students enrolled in the two-course sequence will complete their first year at the GC having been introduced to a broad range of ways to critically evaluate and incorporate digital technologies into their academic research and teaching. In addition, they will have explored both the general field and a particular area of digital scholarship and/or pedagogy of interest to them, produced a digital project in collaboration with fellow students, and learned how to present their digital work effectively.
 
 The two connected three-credit courses will be offered during the Fall and Spring semesters DH classes for master's students and Interdisciplinary Studies courses for doctoral students. The Fall 2018 class will be co-taught by Professors Stephen Brier and Matthew K. Gold. The Spring course will be taught by Professor Andie Silva.
 
