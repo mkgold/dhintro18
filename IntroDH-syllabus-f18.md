@@ -114,7 +114,7 @@ Remember that when you register for social-networking accounts, you do not have 
 
 * Fitzpatrick, Kathleen. *Planned Obsolescence: Publishing, Technology, and the Future of the Academy*. New York: New York University Press, 2011.
 
-* Gold, Matthew K. *Debates in the Digital Humanities*. Minneapolis: University of Minnesota Press, 2012 -- available for free online at <http://dhdebates.gc.cuny.edu>
+* Gold, Matthew K. *Debates in the Digital Humanities: 2012*. Minneapolis: University of Minnesota Press, 2012 -- available for free online at <http://dhdebates.gc.cuny.edu>
 
 * Gold, Matthew K, and Lauren F. Klein. *Debates in the Digital Humanities: 2016*, Minneapolis: University of Minnesota Press, 2016 -- available for free online at <http://dhdebates.gc.cuny.edu>
 
@@ -126,23 +126,34 @@ Readings marked (PDF) will be made available via the Files section of our course
 
 **September 4 - Approaching the Digital Humanities**  
 *Required:*  
-From the *[Debates in the Digital Humanities]* Series:  
-* Introduction (2012) - <http://dhdebates.gc.cuny.edu/debates/text/2>
-* Introduction (2016) - <http://dhdebates.gc.cuny.edu/debates/text/51>
-* Introduction (Draft) (2019) (PDF)
-* Matthew Kirschenbaum, "What Is Digital Humanities and What's It Doing in English Departments?" <http://dhdebates.gc.cuny.edu/debates/text/38>
-* Matthew Kirschenbaum, ["Digital Humanities As/Is a Tactical Term"]
-* Kathleen Fitzpatrick, "The Humanities, Done Digitally" - <http://dhdebates.gc.cuny.edu/debates/text/30>
-* Lisa Spiro, ""This Is Why We Fight": Defining the Values of the Digital Humanities" - <http://dhdebates.gc.cuny.edu/debates/text/13>
-* Rafael Alvarado, "The Digital Humanities Situation" - <http://dhdebates.gc.cuny.edu/debates/text/50>
-* Timothy Burke, "The Humane Digital" - <http://dhdebates.gc.cuny.edu/debates/text/91>
-* Stephen Ramsay, "Humane Computation" - <http://dhdebates.gc.cuny.edu/debates/text/94>
 
-* Susan Hockey, ["The History of Humanities Computing"] from *A Companion to Digital Humanities*
+* From the *[Debates in the Digital Humanities]* Series:  
+
+  * [Introduction](http://dhdebates.gc.cuny.edu/debates/text/2) (2012)
+
+  * [Introduction](http://dhdebates.gc.cuny.edu/debates/text/51) (2016) 
+
+  * Introduction (Draft) (2019) (PDF)
+
+  * Kirschenbaum, Matthew. ["What Is Digital Humanities and What's It Doing in English Departments?"](http://dhdebates.gc.cuny.edu/debates/text/38)
+
+  * Kirschenbaum, Matthew. ["Digital Humanities As/Is a Tactical Term"]
+
+  * Fitzpatrick, Kathleen. ["The Humanities, Done Digitally"](http://dhdebates.gc.cuny.edu/debates/text/30)
+
+  * Spiro, Lisa. ["'This Is Why We Fight': Defining the Values of the Digital Humanities"](http://dhdebates.gc.cuny.edu/debates/text/13)
+
+  * Alvarado, Rafael. ["The Digital Humanities Situation"](http://dhdebates.gc.cuny.edu/debates/text/50)
+
+  * Burke, Timothy. ["The Humane Digital"](http://dhdebates.gc.cuny.edu/debates/text/91)
+
+  * Ramsay, Stephen. ["Humane Computation"](http://dhdebates.gc.cuny.edu/debates/text/94)
+
+* Hockey, Susan. ["The History of Humanities Computing"] *A Companion to Digital Humanities,* edited by Susan Schreibman et al., Blackwell, 2004.
 
 *Recommended:*  
-* Matthew K. Gold, "Digital Humanities" from *The Johns Hopkins Guide to Digital Media* (PDF)
-* Melissa Terras and Julianne Nyhan, ["Father Busa's Female Punch Card Operatives"]
+* Gold, Matthew K. "Digital Humanities" *The Johns Hopkins Guide to Digital Media* (PDF)
+* Terras, Melissa, and Julianne Nyhan. ["Father Busa's Female Punch Card Operatives"] Debates in the Digital Humanities: 2016, edited by Lauren Klein and Matthew Gold, The University of Minnesota Press, 2016, p. 57.
 
 **September 11 - No Class**
 
@@ -150,12 +161,18 @@ From the *[Debates in the Digital Humanities]* Series:
 
 **September 25 - Knowledge Models; Debates; Questions**  
 *Required:*  
-* Todd Presner, "Critical Theory and The Mangle of Digital Humanities." In Svensson, Patrik, and David T. Goldberg. *Between Humanities and the Digital*. Cambridge, Massachusetts: The MIT Press, 2015: 55-68. (PDF)
-* Alan Liu, "The Meaning of the Digital Humanities." PMLA, 128(2). <https://escholarship.org/uc/item/5gc857tw#main>
-* Stephen Ramsay and Geoffrey Rockwell, "Developing Things: Notes toward an Epistemology of Building in the Digital Humanities." In Debates in the Digital Humanities, Ed. Matthew K. Gold. Minneapolis: The University of Minnesota Press, 2012. <http://dhdebates.gc.cuny.edu/debates/text/11>
+* Presner, Todd. "Critical Theory and The Mangle of Digital Humanities." *Between Humanities and the Digital*, edited by Patrik Svensson and David Goldberg, The MIT Press, 2015, pp. 55–68. (PDF)
+
+* Liu, Alan. ["The Meaning of the Digital Humanities."] (https://escholarship.org/uc/item/5gc857tw#main) *PMLA*, vol. 128, no. 2, 2013, pp. 409–23. 
+
+* Ramsay, Stephen, and Geoffrey Rockwell. ["Developing Things: Notes toward an Epistemology of Building in the Digital Humanities."](http://dhdebates.gc.cuny.edu/debates/text/11) *Debates in the Digital Humanities: 2012*, Ed. Matthew K. Gold. University of Minnesota Press, 2012. 
+##STOPPED HERE###
 * Kim Gallon, "Making a Case for the Black Digital Humanities." In Debates in the Digital Humanities 2016, Eds. Matthew K. Gold and Lauren F. Klein. Minneapolis: The University of Minnesota Press, 2016. <http://dhdebates.gc.cuny.edu/debates/text/55>
+
 * Tom Scheinfeldt, "Where's the Beef? Does Digital Humanities Have to Answer Questions?" In Debates in the Digital Humanities, Ed. Matthew K. Gold. Minneapolis: The University of Minnesota Press, 2012. <http://dhdebates.gc.cuny.edu/debates/text/18>
+
 * Dennis Tenen, ["Blunt Instrumentalism: On Tools and Methods"] <http://dhdebates.gc.cuny.edu/debates/text/60>
+
 * Ted Underwood, ["Digital humanities as a semi-normal thing"]<https://tedunderwood.com/2017/03/30/digital-humanities-as-a-semi-normal-thing/>
 
 *Recommended:*
