@@ -179,7 +179,7 @@ Readings marked (PDF) will be made available via the Files section of our course
 
 * Ramsay, Stephen, and Geoffrey Rockwell. ["Developing Things: Notes toward an Epistemology of Building in the Digital Humanities."](http://dhdebates.gc.cuny.edu/debates/text/11) *Debates in the Digital Humanities: 2012*, edited by Matthew K. Gold. University of Minnesota Press, 2012, p. 11. 
 
-* Gallon, Kim. ["Making a Case for the Black Digital Humanities."](http://dhdebates.gc.cuny.edu/debates/text/55) *Debates in the Digital Humanities: 2016*, edited by Matthew K. Gold and Lauren F. Klein. University of Minnesota Press, 2016, p. 55.  
+* Gallon, Kim. ["Making a Case for the Black Digital Humanities."](http://dhdebates.gc.cuny.edu/debates/text/55) *Debates in the Digital Humanities: 2016*, edited by Lauren F. Klein and Matthew K. Gold. University of Minnesota Press, 2016, p. 55.  
 
 * Scheinfeldt, Tom. ["Where's the Beef? Does Digital Humanities Have to Answer Questions?"](http://dhdebates.gc.cuny.edu/debates/text/18) *Debates in the Digital Humanities: 2012*, edited by Matthew K. Gold. University of Minnesota Press, 2012, p. 18. 
 
@@ -210,7 +210,7 @@ Readings marked (PDF) will be made available via the Files section of our course
 
 * Klein, Lauren F. [“Distant Reading after Moretti.”](http://lklein.com/2018/01/distant-reading-after-moretti/) *Lklein*, 2018.
 
-* McMillan Cottom, Tressie. ["More Scale, More Questions: Observations from Sociology."](http://dhdebates.gc.cuny.edu/debates/text/98) *Debates in the Digital Humanities: 2016*, edited by Matthew K. Gold and Lauren F. Klein. University of Minnesota Press, 2016. 
+* McMillan Cottom, Tressie. ["More Scale, More Questions: Observations from Sociology."](http://dhdebates.gc.cuny.edu/debates/text/98) *Debates in the Digital Humanities: 2016*, edited by Lauren F. Klein and Matthew K. Gold, University of Minnesota Press, 2016. 
 
 * Bode, Katherine, "The Equivalence of"Close" and "Distant" Reading; or, Toward a New Object for Data-Rich Literary History." *Modern Language Quarterly*, vol. 78, no. 1, 2017, pp. 77-106.
 
@@ -288,9 +288,9 @@ Projects to Explore:
 
 * Fyfe, Paul. [“Mid-Sized Digital Pedagogy.”](http://dhdebates.gc.cuny.edu/debates/text/62) *Debates in the Digital Humanities: 2016*, edited by Lauren F. Klein and Matthew K. Gold, University of Minnesota Press, 2016, p. 62. 
 
-* Cordell, Ryan ["How Not to Teach Digital Humanities."](http://dhdebates.gc.cuny.edu/debates/text/87) *Debates in the Digital Humanities: 2016*, edited by Matthew K. Gold and Lauren F. Klein. University of Minnesota Press, 2016. 
+* Cordell, Ryan ["How Not to Teach Digital Humanities."](http://dhdebates.gc.cuny.edu/debates/text/87) *Debates in the Digital Humanities: 2016*, edited by Lauren F. Klein and Matthew K. Gold, University of Minnesota Press, 2016. 
 
-* Andrew Goldstone. ["Teaching Quantitative Methods: What Makes It Hard (in Literary Studies)."](https://andrewgoldstone.com/teaching-litdata.pdf) *Debates in the Digital Humanities: 2019*, edited by Matthew K. Gold and Lauren F. Klein. University of Minnesota Press. (forthcoming). 
+* Andrew Goldstone. ["Teaching Quantitative Methods: What Makes It Hard (in Literary Studies)."](https://andrewgoldstone.com/teaching-litdata.pdf) *Debates in the Digital Humanities: 2019*, edited by Lauren F. Klein and Matthew K. Gold, University of Minnesota Press. (forthcoming). 
 
 *Recommended:*
 
@@ -342,7 +342,7 @@ Projects to Explore:
 
 * Jackson, Steven. “Rethinking Repair.” *Media Technologies: Essays on Communication, Materiality and Society*, edited by Tarleton Gillespie and Pablo Boczkowski, The MIT Press, 2014.
 
-* Miriam Posner, ["See No Evil."]<https://logicmag.io/04-see-no-evil/) *Logic*, no. 4, 2018. 
+* Miriam Posner, ["See No Evil."](https://logicmag.io/04-see-no-evil/) *Logic*, no. 4, 2018. 
 
 **November 27 - Race and Inequality in Algorithmic Cultures**
 
