@@ -183,8 +183,6 @@ Readings marked (PDF) will be made available via the Files section of our course
 
 * Scheinfeldt, Tom. ["Where's the Beef? Does Digital Humanities Have to Answer Questions?"](http://dhdebates.gc.cuny.edu/debates/text/18) *Debates in the Digital Humanities: 2012*, edited by Matthew K. Gold. University of Minnesota Press, 2012, p. 18. 
 
-* Dennis Tenen, ["Blunt Instrumentalism: On Tools and Methods"] <http://dhdebates.gc.cuny.edu/debates/text/60>
-
 * Tenen, Dennis. [“Blunt Instrumentalism: On Tools and Methods.”](http://dhdebates.gc.cuny.edu/debates/text/60) *Debates in the Digital Humanities: 2016*, edited by Lauren Klein and Matthew Gold, University of Minnesota Press, 2016, p. 60.
 
 *Recommended:*
@@ -194,7 +192,7 @@ Readings marked (PDF) will be made available via the Files section of our course
 
 **October 2 - Networks of Scholarly Communication**
 
-* Fitzpatrick, Kathleen. Planned Obsolescence: Publishing, Technology, and the Future of the Academy. New York University Press, 2011.(PDF)
+* Fitzpatrick, Kathleen. *Planned Obsolescence: Publishing, Technology, and the Future of the Academy*. New York University Press, 2011.(PDF)
 
 * Fitzpatrick, Kathleen. [“Academia, Not Edu.”](https://kfitz.info/academia-not-edu/) *Kfitz*, 26 Sept. 2015.
 
@@ -256,13 +254,13 @@ Explore the following mapping projects:
 
 **October 30 - Visualization**
 
-* Klein, Lauren F.  “The Image of Absence: Archival Silence, Data Visualization, and James Hemings.” American Literature, vol. 85, no. 4, 2013, pp. 661–88.
+* Klein, Lauren F.  “The Image of Absence: Archival Silence, Data Visualization, and James Hemings.” *American Literature*, vol. 85, no. 4, 2013, pp. 661–88.
 
-* Klein, Lauren F. [“Visualization as Argument.”](http://lklein.com/2014/12/visualization-as-argument/) Lklein, Dec. 2014.
+* Klein, Lauren F. [“Visualization as Argument.”](http://lklein.com/2014/12/visualization-as-argument/) *Lklein*, Dec. 2014.
 
 * Drucker, Johanna. [“Humanities Approaches to Graphical Display.”](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html) *Digital Humanities Quarterly*, vol. 5, no. 1, 2011.
 
-* Manovich, Lev. [“What Is Visualization?”](http://manovich.net/content/04-projects/064-what-is-visualization/61_article_2010.pdf) Manovich.Net, 2012.
+* Manovich, Lev. [“What Is Visualization?”](http://manovich.net/content/04-projects/064-what-is-visualization/61_article_2010.pdf) *Manovich.Net*, 2012.
 
 * FlowingData: Guides - <https://flowingdata.com/category/guides/> (look through a few guides that interest you)
 
@@ -303,13 +301,13 @@ Projects to Explore:
 
 * Brier, Stephen. ["Why the History of CUNY Matters: Using the CUNY Digital History Archive to Teach CUNY's Past."]( https://radicalteacher.library.pitt.edu/ojs/index.php/radicalteacher/article/view/357) *Radical Teacher*, vol. 108, 2017.
 
-* Cohen, Daniel J., and Roy Rosenzweig. [“Introduction.”] Digital History: A Guide To Gathering, Preserving, And Presenting The Past On The Web.
+* Cohen, Daniel J., and Roy Rosenzweig. [“Introduction.”] *Digital History: A Guide To Gathering, Preserving, And Presenting The Past On The Web*.
 
 * Robertson, Stephen. [*The Differences between Digital History and Digital Humanities*](http://drstephenrobertson.com/blog-post/the-differences-between-digital-history-and-digital-humanities/). 23 May 2014.  
 
 * Blevins, Cameron. [“Digital History’s Perpetual Future Tense.”](http://dhdebates.gc.cuny.edu/debates/text/77) *Debates in the Digital Humanities: 2016*, edited by Lauren Klein and Matthew Gold, University of Minnesota Press, 2016, p. 77. 
 
-* From Nawrotzki, Kristen, and Jack Dougherty, editors. [“Part 2. The Wisdom of Crowds(Ourcing).”](https://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1) Writing History in the Digital Age, University of Michigan Press, 2013.
+* From Nawrotzki, Kristen, and Jack Dougherty, editors. [“Part 2. The Wisdom of Crowds(Ourcing).”](https://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1) *Writing History in the Digital Age*, University of Michigan Press, 2013.
   * Leslie Madsen-Brooks, "'I nevertheless am a historian': Digital Historical Practice and Malpractice around Black Confederate Soldiers"
   * Robert Wolff, "Beyond the Historical Profession: The Historian's Craft, Popular Memory, and the Wikipedia"
 
@@ -329,29 +327,29 @@ Projects to Explore:
 
 * Mattern, Shannon. [“Scaffolding, Hard and Soft – Infrastructures as Critical and Generative Structures.”](http://spheres-journal.org/scaffolding-hard-and-soft-infrastructures-as-critical-and-generative-structures/) *Spheres: Journal For Digital Culture*, no. 3, June 2016. 
 
-* Larkin, Brian. “The Politics and Poetics of Infrastructure.” Annual Review of Anthropology, vol. 42, 2013, pp. 327–43.
+* Larkin, Brian. “The Politics and Poetics of Infrastructure.” *Annual Review of Anthropology*, vol. 42, 2013, pp. 327–43.
 
-* Star, Susan Leigh. [“The Ethnography of Infrastructure.”](https://www.imtfi.uci.edu/files/articles/Star.pdf) American Behavioral Scientist, vol. 43, no. 3, Nov. 1999, pp. 377–91.
+* Star, Susan Leigh. [“The Ethnography of Infrastructure.”](https://www.imtfi.uci.edu/files/articles/Star.pdf) *American Behavioral Scientist*, vol. 43, no. 3, Nov. 1999, pp. 377–91.
 
 * Alan Liu, ["Drafts for Against the Cultural Singularity (book in progress)."](http://liu.english.ucsb.edu/drafts-for-against-the-cultural-singularity) *Alan Liu*, 2 May 2016. 
 
-* Bratton, Benjamin. The Stack: On Software and Sovereignty. The MIT Press. (selections)
+* Bratton, Benjamin. *The Stack: On Software and Sovereignty*. The MIT Press. (selections)
 
-* Kirschenbaum, Matthew G. Mechanisms: New Media and the Forensic Imagination. The MIT Press, 2012. (selections)
+* Kirschenbaum, Matthew G. *Mechanisms: New Media and the Forensic Imagination*. The MIT Press, 2012. (selections)
 
 * Kirschenbaum, Matthew. [“Books After The Death Of The Book.”](http://www.publicbooks.org/books-after-the-death-of-the-book/) *Public Books*, 31 Mar. 2017.
 
-* Jackson, Steven. “Rethinking Repair.” Media Technologies: Essays on Communication, Materiality and Society, edited by Tarleton Gillespie and Pablo Boczkowski, The MIT Press, 2014.
+* Jackson, Steven. “Rethinking Repair.” *Media Technologies: Essays on Communication, Materiality and Society*, edited by Tarleton Gillespie and Pablo Boczkowski, The MIT Press, 2014.
 
 * Miriam Posner, ["See No Evil."]<https://logicmag.io/04-see-no-evil/) *Logic*, no. 4, 2018. 
 
 **November 27 - Race and Inequality in Algorithmic Cultures**
 
-* Noble, Safiya. Algorithms of Oppression: How Search Engines Reinforce Racism. New York University Press, 2018. (selections - PDF)
+* Noble, Safiya. *Algorithms of Oppression: How Search Engines Reinforce Racism*. New York University Press, 2018. (selections - PDF)
 
-* Eubanks, Virginia. Automating Inequality. St. Martin’s Press, 2018. (selections - PDF)
+* Eubanks, Virginia. *Automating Inequality*. St. Martin’s Press, 2018. (selections - PDF)
 
-* Browne, Simone. Dark Matters: On the Surveillance of Blackness. Duke University Press, 2015. (selections - PDF)
+* Browne, Simone. *Dark Matters: On the Surveillance of Blackness*. Duke University Press, 2015. (selections - PDF)
 
 **FINAL PROJECT PROPOSAL DUE**
 
