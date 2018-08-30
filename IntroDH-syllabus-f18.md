@@ -110,7 +110,7 @@ Regular participation in discussions across the range of our face-to-face and on
 -   Final project (70%)
 
 #### Accounts
-
+*
 All students should register for accounts on the following sites: [CUNY Academic Commons], [Twitter], [GitHub](http://github.com), and [Zotero] (the library staff offers several very good intro workshops on Zotero that you are encouraged to attend).
 
 Remember that when you register for social-networking accounts, you do not have to use your full name or even your real name. One benefit of writing publicly under your real name is that you can begin to establish a public academic identity and to network with others in your field. However, keep in mind that search engines have extended the life of online work; if you are not sure that you want your work for this course to be part of your permanently searchable identity trail on the web, you should strongly consider creating a digital alias. Whether you engage social media under your real name or whether you construct a new online identity, please consider the ways in which social media can affect your career in both positive and negative ways.
@@ -157,13 +157,13 @@ Readings marked (PDF) will be made available via the Files section of our course
 
   * Ramsay, Stephen. ["Humane Computation"](http://dhdebates.gc.cuny.edu/debates/text/94)
 
-* Hockey, Susan. ["The History of Humanities Computing"] *A Companion to Digital Humanities,* edited by Susan Schreibman et al., Blackwell, 2004.
+* Hockey, Susan. ["The History of Humanities Computing"] *A Companion to Digital Humanities*, edited by Susan Schreibman et al., Blackwell, 2004.
 
 *Recommended:*  
 
 * Gold, Matthew K. "Digital Humanities" *The Johns Hopkins Guide to Digital Media* (PDF)
 
-* Terras, Melissa, and Julianne Nyhan. ["Father Busa's Female Punch Card Operatives"] Debates in the Digital Humanities: 2016, edited by Lauren Klein and Matthew Gold, The University of Minnesota Press, 2016, p. 57.
+* Terras, Melissa, and Julianne Nyhan. ["Father Busa's Female Punch Card Operatives"] *Debates in the Digital Humanities: 2016*, edited by Lauren F. Klein and Matthew K. Gold, University of Minnesota Press, 2016, p. 57.
 
 **September 11 - No Class**
 
@@ -183,12 +183,12 @@ Readings marked (PDF) will be made available via the Files section of our course
 
 * Scheinfeldt, Tom. ["Where's the Beef? Does Digital Humanities Have to Answer Questions?"](http://dhdebates.gc.cuny.edu/debates/text/18) *Debates in the Digital Humanities: 2012*, edited by Matthew K. Gold. University of Minnesota Press, 2012, p. 18. 
 
-* Tenen, Dennis. [“Blunt Instrumentalism: On Tools and Methods.”](http://dhdebates.gc.cuny.edu/debates/text/60) *Debates in the Digital Humanities: 2016*, edited by Lauren Klein and Matthew Gold, University of Minnesota Press, 2016, p. 60.
+* Tenen, Dennis. [“Blunt Instrumentalism: On Tools and Methods.”](http://dhdebates.gc.cuny.edu/debates/text/60) *Debates in the Digital Humanities: 2016*, edited by Lauren F. Klein and Matthew K. Gold, University of Minnesota Press, 2016, p. 60.
 
 *Recommended:*
-* Posner, Miriam. ["What's Next: The Radical, Unrealized Potential of Digital Humanities."] *Debates in the Digital Humanities: 2016*, edited by Lauren Klein and Matthew Gold, University of Minnesota Press, 2016, p. 54.
+* Posner, Miriam. ["What's Next: The Radical, Unrealized Potential of Digital Humanities."] *Debates in the Digital Humanities: 2016*, edited by Lauren F. Klein and Matthew K. Gold, University of Minnesota Press, 2016, p. 54.
 
-* Bethany Nowviskie, ["On the Origin of 'Hack' and 'Yack.'"] *Debates in the Digital Humanities: 2016*, edited by Lauren Klein and Matthew Gold, University of Minnesota Press, 2016, p. 58.
+* Bethany Nowviskie, ["On the Origin of 'Hack' and 'Yack.'"] *Debates in the Digital Humanities: 2016*, edited by Lauren F. Klein and Matthew K. Gold, University of Minnesota Press, 2016, p. 58.
 
 **October 2 - Networks of Scholarly Communication**
 
@@ -198,7 +198,7 @@ Readings marked (PDF) will be made available via the Files section of our course
 
 * Fitzpatrick, Kathleen. [“Networking the Field.”](https://kfitz.info/networking-the-field/) *Kfitz*, 10 Jan. 2012.
 
-* Underwood, Ted. [“New Methods Need a New Kind of Conversation.”](https://tedunderwood.com/2018/02/28/raising-the-standards-for-computation-in-the-humanities/) The Stone and the Shell, 28 Feb. 2018.
+* Underwood, Ted. [“New Methods Need a New Kind of Conversation.”](https://tedunderwood.com/2018/02/28/raising-the-standards-for-computation-in-the-humanities/) *The Stone and the Shell*, 28 Feb. 2018.
 
 **October 9 - Experimentation - Text Mining**
 
@@ -208,7 +208,7 @@ Readings marked (PDF) will be made available via the Files section of our course
 
 * Piper, Andrew. ["Fictionality."](http://culturalanalytics.org/2016/12/fictionality/) *Journal of Cultural Analytics*, Dec. 2016. 
 
-* Klein, Lauren F. [“Distant Reading after Moretti.”](http://lklein.com/2018/01/distant-reading-after-moretti/) Lklein, 2018.
+* Klein, Lauren F. [“Distant Reading after Moretti.”](http://lklein.com/2018/01/distant-reading-after-moretti/) *Lklein*, 2018.
 
 * McMillan Cottom, Tressie. ["More Scale, More Questions: Observations from Sociology."](http://dhdebates.gc.cuny.edu/debates/text/98) *Debates in the Digital Humanities: 2016*, edited by Matthew K. Gold and Lauren F. Klein. University of Minnesota Press, 2016. 
 
@@ -228,13 +228,14 @@ Readings marked (PDF) will be made available via the Files section of our course
 
 * Witmore, Michael. ["Text: A Massively Addressable Object."](http://dhdebates.gc.cuny.edu/debates/text/28) *Debates in the Digital Humanities: 2012*, edited by Matthew K. Gold. University of Minnesota Press, 2012. 
 
-* Gavin, Michael, et al. “Spaces of Meaning: Conceptual History, Vector Semantics, and Close Reading.” *Debates in the Digital Humanities: 2019*, edited by Matthew Gold, University of Minnesota Press, 2019. (PDF)
+* Gavin, Michael, et al. “Spaces of Meaning: Conceptual History, Vector Semantics, and Close Reading.” *Debates in the Digital Humanities: 2019*, edited by Matthew K. Gold, University of Minnesota Press, 2019. (PDF)
 
 * Piper, Andrew “Think Small: On Literary Modeling.” *PMLA*, vol. 132, no. 3, 2017, pp. 651–58.
 
 * So, Richard Jean. "All Models are Wrong." *PMLA*, vol. 132, no. 3, May 2017, pp. 668-673.
 
 **October 23 - Mapping**
+
 * Murrieta-Flores, Patricia, et al. [“GIS and Literary History: Advancing Digital Humanities Research through the Spatial Analysis of Historical Travel Writing and Topographical Literature.”](http://www.digitalhumanities.org/dhq/vol/11/1/000283/000283.html) *Digital Humanities Quarterly*, vol. 11, no. 1, 2017. 
 
 * Presner, Todd S, David Shepard, and Yoh Kawano. *Hypercities: Thick Mapping in the Digital Humanities*. Harvard University Press, 2014. (selections)
@@ -245,10 +246,10 @@ Readings marked (PDF) will be made available via the Files section of our course
 
 Explore the following mapping projects:
 
-* Slave Revolt in Jamaica, 1760-1761 - <http://revolt.axismaps.com/>
-* Mapping Inequality - <https://dsl.richmond.edu/panorama/redlining/#loc=5/36.721/-96.965&opacity=0.8>
-* Renewing Inequality - <https://dsl.richmond.edu/panorama/renewal/#view=0/0/1&viz=cartogram>
-* Atlas of the Historical Geography of the United States - <https://dsl.richmond.edu/paullin.html>
+* [Slave Revolt in Jamaica, 1760-1761](http://revolt.axismaps.com/)
+* [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/#loc=5/36.721/-96.965&opacity=0.8)
+* [Renewing Inequality](https://dsl.richmond.edu/panorama/renewal/#view=0/0/1&viz=cartogram)
+* [Atlas of the Historical Geography of the United States](https://dsl.richmond.edu/paullin.html)
 
 **PRAXIS ASSIGNMENT #2 (Mapping) Due**
 
@@ -266,26 +267,26 @@ Explore the following mapping projects:
 
 Projects to Explore:
 
-* Photogrammer - <http://photogrammar.yale.edu/>
-* On Broadway - <http://www.on-broadway.nyc/>
-* Phototrails - <http://phototrails.info/>
-* RateMyProf Project - <http://benschmidt.org/profCloud/>
-* FlowingData best of lists: <https://flowingdata.com/tag/best-of/>
-* Viral Texts project - <http://networks.viraltexts.org/1836to1899/index.html>
+* [Photogrammer](http://photogrammar.yale.edu/)
+* [On Broadway](http://www.on-broadway.nyc/)
+* [Phototrails](http://phototrails.info/)
+* [RateMyProf Project](http://benschmidt.org/profCloud/)
+* [FlowingData best of lists](https://flowingdata.com/tag/best-of/)
+* [Viral Texts project](http://networks.viraltexts.org/1836to1899/index.html)
 
 **November 6 - Pedagogy**
 
 *Required:*
 
-* Brier, Stephen. [“Where’s the Pedagogy? The Role of Teaching and Learning in the Digital Humanities.”](http://dhdebates.gc.cuny.edu/debates/text/8) *Debates in the Digital Humanities: 2012*, edited by Matthew Gold, University of Minnesota Press, 2012, p. 8. 
+* Brier, Stephen. [“Where’s the Pedagogy? The Role of Teaching and Learning in the Digital Humanities.”](http://dhdebates.gc.cuny.edu/debates/text/8) *Debates in the Digital Humanities: 2012*, edited by Matthew K. Gold, University of Minnesota Press, 2012, p. 8. 
 
-* Waltzer, Luke. [“Digital Humanities and the ‘Ugly Stepchildren’ of American Higher Education.”](http://dhdebates.gc.cuny.edu/debates/text/33) *Debates in the Digital Humanities: 2012*, edited by Matthew Gold, University of Minnesota Press, 2012, p. 33.
+* Waltzer, Luke. [“Digital Humanities and the ‘Ugly Stepchildren’ of American Higher Education.”](http://dhdebates.gc.cuny.edu/debates/text/33) *Debates in the Digital Humanities: 2012*, edited by Matthew K. Gold, University of Minnesota Press, 2012, p. 33.
 
 * [Digital Pedagogy in the Humanities](https://github.com/curateteaching/digitalpedagogy/tree/master/keywords) (explore 3 keywords) 
 
 * Gold, Matthew K. [“Looking for Whitman: A Multi-Campus Experiment in Digital Pedagogy.”](https://www.openbookpublishers.com/product.php/161/digital-humanities-pedagogy--practices--principles-and-politics?161/digital-humanities-pedagogy--practices--principles-and-politics) *Digital Humanities Pedagogy: Practices, Principles and Politics*, edited by Brett Hirsch, Open Book Publishers, 2014. 
 
-* Fyfe, Paul. [“Mid-Sized Digital Pedagogy.”](http://dhdebates.gc.cuny.edu/debates/text/62) *Debates in the Digital Humanities: 2016*, edited by Lauren Klein and Matthew Gold, The University of Minnesota Press, 2016, p. 62. 
+* Fyfe, Paul. [“Mid-Sized Digital Pedagogy.”](http://dhdebates.gc.cuny.edu/debates/text/62) *Debates in the Digital Humanities: 2016*, edited by Lauren F. Klein and Matthew K. Gold, University of Minnesota Press, 2016, p. 62. 
 
 * Cordell, Ryan ["How Not to Teach Digital Humanities."](http://dhdebates.gc.cuny.edu/debates/text/87) *Debates in the Digital Humanities: 2016*, edited by Matthew K. Gold and Lauren F. Klein. University of Minnesota Press, 2016. 
 
@@ -305,7 +306,7 @@ Projects to Explore:
 
 * Robertson, Stephen. [*The Differences between Digital History and Digital Humanities*](http://drstephenrobertson.com/blog-post/the-differences-between-digital-history-and-digital-humanities/). 23 May 2014.  
 
-* Blevins, Cameron. [“Digital History’s Perpetual Future Tense.”](http://dhdebates.gc.cuny.edu/debates/text/77) *Debates in the Digital Humanities: 2016*, edited by Lauren Klein and Matthew Gold, University of Minnesota Press, 2016, p. 77. 
+* Blevins, Cameron. [“Digital History’s Perpetual Future Tense.”](http://dhdebates.gc.cuny.edu/debates/text/77) *Debates in the Digital Humanities: 2016*, edited by Lauren F. Klein and Matthew K. Gold, University of Minnesota Press, 2016, p. 77. 
 
 * From Nawrotzki, Kristen, and Jack Dougherty, editors. [“Part 2. The Wisdom of Crowds(Ourcing).”](https://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1) *Writing History in the Digital Age*, University of Michigan Press, 2013.
   * Leslie Madsen-Brooks, "'I nevertheless am a historian': Digital Historical Practice and Malpractice around Black Confederate Soldiers"
