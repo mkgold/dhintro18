@@ -110,7 +110,7 @@ Regular participation in discussions across the range of our face-to-face and on
 -   Final project (70%)
 
 #### Accounts
-*
+
 All students should register for accounts on the following sites: [CUNY Academic Commons], [Twitter], [GitHub](http://github.com), and [Zotero] (the library staff offers several very good intro workshops on Zotero that you are encouraged to attend).
 
 Remember that when you register for social-networking accounts, you do not have to use your full name or even your real name. One benefit of writing publicly under your real name is that you can begin to establish a public academic identity and to network with others in your field. However, keep in mind that search engines have extended the life of online work; if you are not sure that you want your work for this course to be part of your permanently searchable identity trail on the web, you should strongly consider creating a digital alias. Whether you engage social media under your real name or whether you construct a new online identity, please consider the ways in which social media can affect your career in both positive and negative ways.
@@ -309,8 +309,8 @@ Projects to Explore:
 * Blevins, Cameron. [“Digital History’s Perpetual Future Tense.”](http://dhdebates.gc.cuny.edu/debates/text/77) *Debates in the Digital Humanities: 2016*, edited by Lauren F. Klein and Matthew K. Gold, University of Minnesota Press, 2016, p. 77. 
 
 * From Nawrotzki, Kristen, and Jack Dougherty, editors. [“Part 2. The Wisdom of Crowds(Ourcing).”](https://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1) *Writing History in the Digital Age*, University of Michigan Press, 2013.
-  * Leslie Madsen-Brooks, "'I nevertheless am a historian': Digital Historical Practice and Malpractice around Black Confederate Soldiers"
-  * Robert Wolff, "Beyond the Historical Profession: The Historian's Craft, Popular Memory, and the Wikipedia"
+  * Madsen-Brooks, Leslie. "'I nevertheless am a historian': Digital Historical Practice and Malpractice around Black Confederate Soldiers"
+  * Wolff, Robert. "Beyond the Historical Profession: The Historian's Craft, Popular Memory, and the Wikipedia"
 
 *Projects to Explore:*
 
