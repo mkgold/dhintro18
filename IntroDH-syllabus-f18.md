@@ -128,7 +128,7 @@ Remember that when you register for social-networking accounts, you do not have 
 Readings marked (PDF) will be made available via the Files section of our course group.
 
 #### Academic Accommodations & Accessibility
-Qualified students with disabilities will be provided reasonable academic accommodations if determined eligible by the Graduate Center's [Disability Services Office](https://gc.cuny.edu/Prospective-Current-Students/Current-Students/Disability-Services). Prior to granting disability accommodations in this course, the instructor must receive written verification of a student’s eligibility from the DS Office which is located in room 7301 at the GC and which can be reached by emailing disabilityservices@gc.cuny.edu .  It is the student’s responsibility to initiate contact with the office and to follow the established procedures for having the accommodation notice sent to the instructor. 
+Qualified students with disabilities will be provided reasonable academic accommodations if determined eligible by the Graduate Center's [Disability Services Office](https://gc.cuny.edu/Prospective-Current-Students/Current-Students/Disability-Services). Prior to granting disability accommodations in this course, the instructor must receive written verification of a student’s eligibility from the DS Office, which is located in room 7301 at the GC and which can be reached by emailing disabilityservices@gc.cuny.edu .  It is the student’s responsibility to initiate contact with the office and to follow the established procedures for having the accommodation notice sent to the instructor. 
 
 ## Course Schedule (subject to change)
 
