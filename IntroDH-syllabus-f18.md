@@ -121,172 +121,239 @@ Remember that when you register for social-networking accounts, you do not have 
 
 * Fitzpatrick, Kathleen. *Planned Obsolescence: Publishing, Technology, and the Future of the Academy*. New York: New York University Press, 2011.
 
-* Gold, Matthew K. *Debates in the Digital Humanities*. Minneapolis: University of Minnesota Press, 2012 -- available for free online at <http://dhdebates.gc.cuny.edu>
+* Gold, Matthew K. *Debates in the Digital Humanities: 2012*. Minneapolis: University of Minnesota Press, 2012 -- available for free online at <http://dhdebates.gc.cuny.edu>
 
 * Gold, Matthew K, and Lauren F. Klein. *Debates in the Digital Humanities: 2016*, Minneapolis: University of Minnesota Press, 2016 -- available for free online at <http://dhdebates.gc.cuny.edu>
 
 Readings marked (PDF) will be made available via the Files section of our course group.
 
+#### Academic Accommodations & Accessibility
+Qualified students with disabilities will be provided reasonable academic accommodations if determined eligible by the Graduate Center's [Disability Services Office](https://gc.cuny.edu/Prospective-Current-Students/Current-Students/Disability-Services). Prior to granting disability accommodations in this course, the instructor must receive written verification of a student’s eligibility from the DS Office, which is located in room 7301 at the GC and which can be reached by emailing disabilityservices@gc.cuny.edu .  It is the student’s responsibility to initiate contact with the office and to follow the established procedures for having the accommodation notice sent to the instructor. 
+
 ## Course Schedule (subject to change)
 
 **August 28 - Introductions**
 
-**September 4 - Approaching the Digital Humanities**  
-*Required:*  
-From the *[Debates in the Digital Humanities]* Series:  
-* Introduction (2012) - <http://dhdebates.gc.cuny.edu/debates/text/2>
-* Introduction (2016) - <http://dhdebates.gc.cuny.edu/debates/text/51>
-* Introduction (Draft) (2019) (PDF)
-* Matthew Kirschenbaum, "What Is Digital Humanities and What's It Doing in English Departments?" <http://dhdebates.gc.cuny.edu/debates/text/38>
-* Matthew Kirschenbaum, ["Digital Humanities As/Is a Tactical Term"]
-* Kathleen Fitzpatrick, "The Humanities, Done Digitally" - <http://dhdebates.gc.cuny.edu/debates/text/30>
-* Lisa Spiro, ""This Is Why We Fight": Defining the Values of the Digital Humanities" - <http://dhdebates.gc.cuny.edu/debates/text/13>
-* Rafael Alvarado, "The Digital Humanities Situation" - <http://dhdebates.gc.cuny.edu/debates/text/50>
-* Timothy Burke, "The Humane Digital" - <http://dhdebates.gc.cuny.edu/debates/text/91>
-* Stephen Ramsay, "Humane Computation" - <http://dhdebates.gc.cuny.edu/debates/text/94>
+**September 4 - Approaching the Digital Humanities** 
 
-* Susan Hockey, ["The History of Humanities Computing"] from *A Companion to Digital Humanities*
+*Required:*  
+
+* From the *[Debates in the Digital Humanities]* Series:  
+
+  * [Introduction](http://dhdebates.gc.cuny.edu/debates/text/2) (2012)
+
+  * [Introduction](http://dhdebates.gc.cuny.edu/debates/text/51) (2016) 
+
+  * Introduction (Draft) (2019) (PDF)
+
+  * Kirschenbaum, Matthew. ["What Is Digital Humanities and What's It Doing in English Departments?"](http://dhdebates.gc.cuny.edu/debates/text/38)
+
+  * Kirschenbaum, Matthew. ["Digital Humanities As/Is a Tactical Term"]
+
+  * Fitzpatrick, Kathleen. ["The Humanities, Done Digitally"](http://dhdebates.gc.cuny.edu/debates/text/30)
+
+  * Spiro, Lisa. ["'This Is Why We Fight': Defining the Values of the Digital Humanities"](http://dhdebates.gc.cuny.edu/debates/text/13)
+
+  * Alvarado, Rafael. ["The Digital Humanities Situation"](http://dhdebates.gc.cuny.edu/debates/text/50)
+
+  * Burke, Timothy. ["The Humane Digital"](http://dhdebates.gc.cuny.edu/debates/text/91)
+
+  * Ramsay, Stephen. ["Humane Computation"](http://dhdebates.gc.cuny.edu/debates/text/94)
+
+* Hockey, Susan. ["The History of Humanities Computing"] *A Companion to Digital Humanities*, edited by Susan Schreibman et al., Blackwell, 2004.
 
 *Recommended:*  
-* Matthew K. Gold, "Digital Humanities" from *The Johns Hopkins Guide to Digital Media* (PDF)
-* Melissa Terras and Julianne Nyhan, ["Father Busa's Female Punch Card Operatives"]
+
+* Gold, Matthew K. "Digital Humanities" *The Johns Hopkins Guide to Digital Media* (PDF)
+
+* Terras, Melissa, and Julianne Nyhan. ["Father Busa's Female Punch Card Operatives"] *Debates in the Digital Humanities: 2016*, edited by Lauren F. Klein and Matthew K. Gold, University of Minnesota Press, 2016, p. 57.
 
 **September 11 - No Class**
 
 **September 18 - No Class**
 
-**September 25 - Knowledge Models; Debates; Questions**  
-*Required:*  
-* Todd Presner, "Critical Theory and The Mangle of Digital Humanities." In Svensson, Patrik, and David T. Goldberg. *Between Humanities and the Digital*. Cambridge, Massachusetts: The MIT Press, 2015: 55-68. (PDF)
-* Alan Liu, "The Meaning of the Digital Humanities." PMLA, 128(2). <https://escholarship.org/uc/item/5gc857tw#main>
-* Stephen Ramsay and Geoffrey Rockwell, "Developing Things: Notes toward an Epistemology of Building in the Digital Humanities." In Debates in the Digital Humanities, Ed. Matthew K. Gold. Minneapolis: The University of Minnesota Press, 2012. <http://dhdebates.gc.cuny.edu/debates/text/11>
-* Kim Gallon, "Making a Case for the Black Digital Humanities." In Debates in the Digital Humanities 2016, Eds. Matthew K. Gold and Lauren F. Klein. Minneapolis: The University of Minnesota Press, 2016. <http://dhdebates.gc.cuny.edu/debates/text/55>
-* Tom Scheinfeldt, "Where's the Beef? Does Digital Humanities Have to Answer Questions?" In Debates in the Digital Humanities, Ed. Matthew K. Gold. Minneapolis: The University of Minnesota Press, 2012. <http://dhdebates.gc.cuny.edu/debates/text/18>
-* Dennis Tenen, ["Blunt Instrumentalism: On Tools and Methods"] <http://dhdebates.gc.cuny.edu/debates/text/60>
-* Ted Underwood, ["Digital humanities as a semi-normal thing"]<https://tedunderwood.com/2017/03/30/digital-humanities-as-a-semi-normal-thing/>
+**September 25 - Knowledge Models; Debates; Questions**
+
+*Required:*
+
+* Presner, Todd. "Critical Theory and The Mangle of Digital Humanities." *Between Humanities and the Digital*, edited by Patrik Svensson and David Goldberg, The MIT Press, 2015, pp. 55–68. (PDF)
+
+* Liu, Alan. ["The Meaning of the Digital Humanities."](https://escholarship.org/uc/item/5gc857tw#main) *PMLA*, vol. 128, no. 2, 2013, pp. 409–23. 
+
+* Ramsay, Stephen, and Geoffrey Rockwell. ["Developing Things: Notes toward an Epistemology of Building in the Digital Humanities."](http://dhdebates.gc.cuny.edu/debates/text/11) *Debates in the Digital Humanities: 2012*, edited by Matthew K. Gold. University of Minnesota Press, 2012, p. 11. 
+
+* Gallon, Kim. ["Making a Case for the Black Digital Humanities."](http://dhdebates.gc.cuny.edu/debates/text/55) *Debates in the Digital Humanities: 2016*, edited by Lauren F. Klein and Matthew K. Gold. University of Minnesota Press, 2016, p. 55.  
+
+* Scheinfeldt, Tom. ["Where's the Beef? Does Digital Humanities Have to Answer Questions?"](http://dhdebates.gc.cuny.edu/debates/text/18) *Debates in the Digital Humanities: 2012*, edited by Matthew K. Gold. University of Minnesota Press, 2012, p. 18. 
+
+* Tenen, Dennis. [“Blunt Instrumentalism: On Tools and Methods.”](http://dhdebates.gc.cuny.edu/debates/text/60) *Debates in the Digital Humanities: 2016*, edited by Lauren F. Klein and Matthew K. Gold, University of Minnesota Press, 2016, p. 60.
 
 *Recommended:*
-* Miriam Posner, ["What's Next: The Radical, Unrealized Potential of Digital Humanities"], 2016
-* Bethany Nowviskie, ["On the Origin of 'Hack' and 'Yack'"], 2016 *
+* Posner, Miriam. ["What's Next: The Radical, Unrealized Potential of Digital Humanities."] *Debates in the Digital Humanities: 2016*, edited by Lauren F. Klein and Matthew K. Gold, University of Minnesota Press, 2016, p. 54.
+
+* Bethany Nowviskie, ["On the Origin of 'Hack' and 'Yack.'"] *Debates in the Digital Humanities: 2016*, edited by Lauren F. Klein and Matthew K. Gold, University of Minnesota Press, 2016, p. 58.
 
 **October 2 - Networks of Scholarly Communication**
-*Kathleen Fitzpatrick, Planned Obsolescence (selections - PDF)
-*Kathleen Fitzpatrick, "Academia, Not Edu." Planned Obsolescence 26 October 2016. <https://kfitz.info/academia-not-edu/>
-*Kathleen Fitzpatrick, "Networking the Field." Planned Obsolescence 10 January 2012. <https://kfitz.info/networking-the-field/>
-*Ted Underwood, ["New methods need a new kind of conversation"]
+
+* Fitzpatrick, Kathleen. *Planned Obsolescence: Publishing, Technology, and the Future of the Academy*. New York University Press, 2011.(PDF)
+
+* Fitzpatrick, Kathleen. [“Academia, Not Edu.”](https://kfitz.info/academia-not-edu/) *Kfitz*, 26 Sept. 2015.
+
+* Fitzpatrick, Kathleen. [“Networking the Field.”](https://kfitz.info/networking-the-field/) *Kfitz*, 10 Jan. 2012.
+
+* Underwood, Ted. [“New Methods Need a New Kind of Conversation.”](https://tedunderwood.com/2018/02/28/raising-the-standards-for-computation-in-the-humanities/) *The Stone and the Shell*, 28 Feb. 2018.
 
 **October 9 - Experimentation - Text Mining**
-* Underwood, Ted. "A Genealogy of Distant Reading." Digital Humanities Quarterly. Volume 11 Number 2 (2017). http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html
-* Goldstone, Andrew and Underwood, Ted. "The Quiet Transformations of Literary Studies: What Thirteen Thousand Scholars Could Tell Us." New Literary History 45.3 (2014): 359-84. <https://www.ideals.illinois.edu/bitstream/handle/2142/49323/QuietTransformations.pdf?sequence=2>
-* Piper, Andrew. "Fictionality." Journal of Cultural Analytics. 20 December 2016. <http://culturalanalytics.org/2016/12/fictionality/>
-* Klein, Lauren F. "Distant Reading After Moretti." Lauren F. Klein. n.d. <http://lklein.com/2018/01/distant-reading-after-moretti/>
-* McMillan Cottom, Tressie. "More Scale, More Questions: Observations from Sociology." In Debates in the Digital Humanities 2016, Eds. Matthew K. Gold and Lauren F. Klein. Minneapolis: The University of Minnesota Press, 2016. <http://dhdebates.gc.cuny.edu/debates/text/98>
-* Bode, Katherine, "The Equivalence of"Close" and "Distant" Reading; or, Toward a New Object for Data-Rich Literary History." Modern Language Quarterly, vol. 78, no. 1 (2017), pp. 77-106.
+
+* Underwood, Ted. ["A Genealogy of Distant Reading."](http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html) *Digital Humanities Quarterly*, vol. 11, no. 2, 2017.
+
+* Goldstone, Andrew and Ted Underwood. ["The Quiet Transformations of Literary Studies: What Thirteen Thousand Scholars Could Tell Us."](https://www.ideals.illinois.edu/bitstream/handle/2142/49323/QuietTransformations.pdf?sequence=2) *New Literary History*, vol. 45, no. 3, 2014, pp. 359–84. 
+
+* Piper, Andrew. ["Fictionality."](http://culturalanalytics.org/2016/12/fictionality/) *Journal of Cultural Analytics*, Dec. 2016. 
+
+* Klein, Lauren F. [“Distant Reading after Moretti.”](http://lklein.com/2018/01/distant-reading-after-moretti/) *Lklein*, 2018.
+
+* McMillan Cottom, Tressie. ["More Scale, More Questions: Observations from Sociology."](http://dhdebates.gc.cuny.edu/debates/text/98) *Debates in the Digital Humanities: 2016*, edited by Lauren F. Klein and Matthew K. Gold, University of Minnesota Press, 2016. 
+
+* Bode, Katherine, "The Equivalence of"Close" and "Distant" Reading; or, Toward a New Object for Data-Rich Literary History." *Modern Language Quarterly*, vol. 78, no. 1, 2017, pp. 77-106.
 
 **PRAXIS ASSIGNMENT #1 (Text Mining) Due**
 
 **October 16 - Exploration**
-* Ramsay, Stephen, "The Hermeneutics of Screwing Around; or What You Do with a Million Books" [https://quod.lib.umich.edu/d/dh/12544152.0001.001/1:5/--pastplay-teaching-and-learning-history-with-technology?g=dculture;rgn=div1;view=fulltext;xc=1#5.1]
-* Drucker, Johanna. Speclab: Digital Aesthetics and Projects in Speculative Computing. Chicago: University of Chicago Press, 2009. (selections)
-* Ramsay, Stephen. Reading Machines: Toward an Algorithmic Criticism. Urbana, Ill: University of Illinois Press, 2012. (selections)
-* Samuels, Lisa, and Jerome McGann. "Deformance and Interpretation." New Literary History 30.1 (1999) : 25--56.
-* Witmore, Michael. "Text: A Massively Addressable Object." In Debates in the Digital Humanities, ed. Matthew K. Gold. University of Minnesota Press: Minneapolis, 2012. <http://dhdebates.gc.cuny.edu/debates/text/28>
-* Gavin, Michael; Jennings, Collin; Kersey, Lauren; and Pasanek, Brad. "Spaces of Meaning: Conceptual History, Vector Semantics, and Close Reading." Debates in the Digital Humanities 2019. (PDF)
-* Piper, Andrew "Think Small: On Literary Modeling." PMLA 132.3 (2017): 651-658.
-* So, Richard Jean. "All Models are Wrong." PMLA Volume 132, Number 3, May 2017, pp. 668--673.
+
+* Ramsay, Stephen. [“The Hermeneutics of Screwing Around; or What You Do with a Million Books.”](https://quod.lib.umich.edu/d/dh/12544152.0001.001/1:5/%E2%80%93pastplay-teaching-and-learning-history-with-technology?g=dculture;rgn=div1;view=fulltext;xc=1#5.1) *Pastplay: Teaching and Learning History with Technology*, edited by Kevin Kee, University of Michigan Press, 2014, pp. 111–20.
+
+* Drucker, Johanna. *Speclab: Digital Aesthetics and Projects in Speculative Computing*. University of Chicago Press, 2009.(Selections)
+
+* Ramsay, Stephen. *Reading Machines: Toward an Algorithmic Criticism*. University of Illinois Press, 2012. (selections)
+
+* Samuels, Lisa, and Jerome McGann. "Deformance and Interpretation." *New Literary History*, vol. 30, no. 1, 1999, pp. 25-56.
+
+* Witmore, Michael. ["Text: A Massively Addressable Object."](http://dhdebates.gc.cuny.edu/debates/text/28) *Debates in the Digital Humanities: 2012*, edited by Matthew K. Gold. University of Minnesota Press, 2012. 
+
+* Gavin, Michael, et al. “Spaces of Meaning: Conceptual History, Vector Semantics, and Close Reading.” *Debates in the Digital Humanities: 2019*, edited by Matthew K. Gold, University of Minnesota Press, 2019. (PDF)
+
+* Piper, Andrew “Think Small: On Literary Modeling.” *PMLA*, vol. 132, no. 3, 2017, pp. 651–58.
+
+* So, Richard Jean. "All Models are Wrong." *PMLA*, vol. 132, no. 3, May 2017, pp. 668-673.
 
 **October 23 - Mapping**
-* Murrieta-Flores, Patricia; Donaldson, Christopher; Gregory, Ian, "GIS and Literary History: Advancing Digital Humanities research through the Spatial Analysis of historical travel writing and topographical literature." Digital Humanities Quarterly. Volume 11 Number 1 (2017). http://www.digitalhumanities.org/dhq/vol/11/1/000283/000283.html
-* Presner, Todd S, David Shepard, and Yoh Kawano. Hypercities: Thick Mapping in the Digital Humanities. Cambridge, Massachusetts: Harvard University Press, 2014. (selections)
-* Monmonier, Mark S. How to Lie with Maps. Chicago : University of Chicago Press, 1996. (selections)
-* David J. Bodenhamer, John Corrigan, and Trevor M. Harris, eds, * The Spatial Humanities*  (selections)
+
+* Murrieta-Flores, Patricia, et al. [“GIS and Literary History: Advancing Digital Humanities Research through the Spatial Analysis of Historical Travel Writing and Topographical Literature.”](http://www.digitalhumanities.org/dhq/vol/11/1/000283/000283.html) *Digital Humanities Quarterly*, vol. 11, no. 1, 2017. 
+
+* Presner, Todd S, David Shepard, and Yoh Kawano. *Hypercities: Thick Mapping in the Digital Humanities*. Harvard University Press, 2014. (selections)
+
+* Monmonier, Mark S. *How to Lie with Maps*. University of Chicago Press, 1996. (selections)
+
+* David J. Bodenhamer, John Corrigan, and Trevor M. Harris, editors. *The Spatial Humanities: GIS and the Future of Humanities Scholarship*. Indiana University Press, 2010.  (selections)
 
 Explore the following mapping projects:
 
-* Slave Revolt in Jamaica, 1760-1761 - <http://revolt.axismaps.com/>
-* Mapping Inequality - <https://dsl.richmond.edu/panorama/redlining/#loc=5/36.721/-96.965&opacity=0.8>
-* Renewing Inequality - <https://dsl.richmond.edu/panorama/renewal/#view=0/0/1&viz=cartogram>
-* Atlas of the Historical Geography of the United States - <https://dsl.richmond.edu/paullin.html>
+* [Slave Revolt in Jamaica, 1760-1761](http://revolt.axismaps.com/)
+* [Mapping Inequality](https://dsl.richmond.edu/panorama/redlining/#loc=5/36.721/-96.965&opacity=0.8)
+* [Renewing Inequality](https://dsl.richmond.edu/panorama/renewal/#view=0/0/1&viz=cartogram)
+* [Atlas of the Historical Geography of the United States](https://dsl.richmond.edu/paullin.html)
 
 **PRAXIS ASSIGNMENT #2 (Mapping) Due**
 
 **October 30 - Visualization**
-* Klein, Lauren F. "The Image of Absence: Archival Silence, Data Visualization, and James Hemings." American Literature (2013) 85 (4): 661-688.
-* Klein, Lauren F. "Visualization as Argument." Lauren F. Klein. n.d. http://lklein.com/2014/12/visualization-as-argument/
-* Johanna Drucker, "Humanities Approaches to Graphical Display" http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html
-* Manovich, Lev. "What is Visualization?" (2010). <http://manovich.net/content/04-projects/064-what-is-visualization/61_article_2010.pdf>
+
+* Klein, Lauren F.  “The Image of Absence: Archival Silence, Data Visualization, and James Hemings.” *American Literature*, vol. 85, no. 4, 2013, pp. 661–88.
+
+* Klein, Lauren F. [“Visualization as Argument.”](http://lklein.com/2014/12/visualization-as-argument/) *Lklein*, Dec. 2014.
+
+* Drucker, Johanna. [“Humanities Approaches to Graphical Display.”](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html) *Digital Humanities Quarterly*, vol. 5, no. 1, 2011.
+
+* Manovich, Lev. [“What Is Visualization?”](http://manovich.net/content/04-projects/064-what-is-visualization/61_article_2010.pdf) *Manovich.Net*, 2012.
+
 * FlowingData: Guides - <https://flowingdata.com/category/guides/> (look through a few guides that interest you)
 
 Projects to Explore:
 
-* Photogrammer - <http://photogrammar.yale.edu/>
-* On Broadway - <http://www.on-broadway.nyc/>
-* Phototrails - <http://phototrails.info/>
-* RateMyProf Project - <http://benschmidt.org/profCloud/>
-* FlowingData best of lists: <https://flowingdata.com/tag/best-of/>
-* Viral Texts project - <http://networks.viraltexts.org/1836to1899/index.html>
+* [Photogrammer](http://photogrammar.yale.edu/)
+* [On Broadway](http://www.on-broadway.nyc/)
+* [Phototrails](http://phototrails.info/)
+* [RateMyProf Project](http://benschmidt.org/profCloud/)
+* [FlowingData best of lists](https://flowingdata.com/tag/best-of/)
+* [Viral Texts project](http://networks.viraltexts.org/1836to1899/index.html)
 
 **November 6 - Pedagogy**
+
 *Required:*
-* Stephen Brier, ["Where's the Pedagogy? The Role of Teaching and Learning in the Digital Humanities"]
-* Luke Waltzer, ["Digital Humanities and the 'Ugly Stepchildren' of American Higher Education"]
-* Digital Pedagogy in the Humanities (explore 3 keywords) - <https://github.com/curateteaching/digitalpedagogy/tree/master/keywords>
-* Gold, Matthew K. "Looking for Whitman: A Multi-Campus Experiment in Digital Pedagogy." In Digital Humanities Pedagogy: Practices, Principles and Politics, Ed. Brett D. Hirsch. Cambridge: Open Book Publishers, 2014. [https://www.openbookpublishers.com/product.php/161/digital-humanities-pedagogy--practices--principles-and-politics?161/digital-humanities-pedagogy--practices--principles-and-politics]
-* Fyfe, Paul. "Mid-Sized Digital Pedagogy." In Debates in the Digital Humanities 2016, Eds. Matthew K. Gold and Lauren F. Klein. Minneapolis: The University of Minnesota Press, 2016. <http://dhdebates.gc.cuny.edu/debates/text/62>
-* Ryan Cordell, "How Not to Teach Digital Humanities." In Debates in the Digital Humanities 2016, Eds. Matthew K. Gold and Lauren F. Klein. Minneapolis: The University of Minnesota Press, 2016. http://dhdebates.gc.cuny.edu/debates/text/87
-* Andrew Goldstone. "Teaching Quantitative Methods: What Makes It Hard (in Literary Studies)." In Debates in the Digital Humanities 2019, Eds. Matthew K. Gold and Lauren F. Klein. Minneapolis: University of Minnesota Press (forthcoming). <https://andrewgoldstone.com/teaching-litdata.pdf>
+
+* Brier, Stephen. [“Where’s the Pedagogy? The Role of Teaching and Learning in the Digital Humanities.”](http://dhdebates.gc.cuny.edu/debates/text/8) *Debates in the Digital Humanities: 2012*, edited by Matthew K. Gold, University of Minnesota Press, 2012, p. 8. 
+
+* Waltzer, Luke. [“Digital Humanities and the ‘Ugly Stepchildren’ of American Higher Education.”](http://dhdebates.gc.cuny.edu/debates/text/33) *Debates in the Digital Humanities: 2012*, edited by Matthew K. Gold, University of Minnesota Press, 2012, p. 33.
+
+* [Digital Pedagogy in the Humanities](https://github.com/curateteaching/digitalpedagogy/tree/master/keywords) (explore 3 keywords) 
+
+* Gold, Matthew K. [“Looking for Whitman: A Multi-Campus Experiment in Digital Pedagogy.”](https://www.openbookpublishers.com/product.php/161/digital-humanities-pedagogy--practices--principles-and-politics?161/digital-humanities-pedagogy--practices--principles-and-politics) *Digital Humanities Pedagogy: Practices, Principles and Politics*, edited by Brett Hirsch, Open Book Publishers, 2014. 
+
+* Fyfe, Paul. [“Mid-Sized Digital Pedagogy.”](http://dhdebates.gc.cuny.edu/debates/text/62) *Debates in the Digital Humanities: 2016*, edited by Lauren F. Klein and Matthew K. Gold, University of Minnesota Press, 2016, p. 62. 
+
+* Cordell, Ryan ["How Not to Teach Digital Humanities."](http://dhdebates.gc.cuny.edu/debates/text/87) *Debates in the Digital Humanities: 2016*, edited by Lauren F. Klein and Matthew K. Gold, University of Minnesota Press, 2016. 
+
+* Andrew Goldstone. ["Teaching Quantitative Methods: What Makes It Hard (in Literary Studies)."](https://andrewgoldstone.com/teaching-litdata.pdf) *Debates in the Digital Humanities: 2019*, edited by Lauren F. Klein and Matthew K. Gold, University of Minnesota Press. (forthcoming). 
 
 *Recommended:*
 
-* Kate Singer, "Digital Close Reading: TEI for Teaching Poetic Vocabularies." Journal of Interactive Technology and Pedagogy. Issue 3: 15 May 2013. <https://jitp.commons.gc.cuny.edu/digital-close-reading-tei-for-teaching-poetic-vocabularies/>
+* Singer, Kate. [“Digital Close Reading: TEI for Teaching Poetic Vocabularies.”](https://jitp.commons.gc.cuny.edu/digital-close-reading-tei-for-teaching-poetic-vocabularies/) *Journal of Interactive Technology and Pedagogy*, no. 3, May 2013. 
 
 **PRAXIS ASSIGNMENT #3 (Network Analysis) Due**
 
 **November 13 - History and the Archive**
 
-* Brier, Stephen. "Why the History of CUNY Matters: Using the CUNY Digital History Archive to Teach CUNY's Past." *Radical Teacher* Vol. 108 (2017). https://radicalteacher.library.pitt.edu/ojs/index.php/radicalteacher/article/view/357
-*[Introduction] from Dan Cohen and Roy Rosenzweig, *Digital History: A Guide to Gathering, Preserving, and Presenting the Past on the Web*, 2005
-* Stephen Robertson, ["The Differences between Digital History and Digital Humanities"], 2014
+* Brier, Stephen. ["Why the History of CUNY Matters: Using the CUNY Digital History Archive to Teach CUNY's Past."]( https://radicalteacher.library.pitt.edu/ojs/index.php/radicalteacher/article/view/357) *Radical Teacher*, vol. 108, 2017.
 
-* Cameron Blevins, "Digital History's Perpetual Future Tense." *Debates in the Digital Humanities 2016*, ed. Matthew K. Gold and Lauren F. Klein. <http://dhdebates.gc.cuny.edu/debates/text/77>
-*In Kristen Nawrotzki & Jack Dougherty, eds., *Writing History in the Digital Age*, from [Part 2. The Wisdom of Crowds(ourcing)], 2013:
-* Leslie Madsen-Brooks, "'I nevertheless am a historian': Digital Historical Practice and Malpractice around Black Confederate Soldiers"
-* Robert Wolff, "Beyond the Historical Profession: The Historian's Craft, Popular Memory, and the Wikipedia"
+* Cohen, Daniel J., and Roy Rosenzweig. [“Introduction.”] *Digital History: A Guide To Gathering, Preserving, And Presenting The Past On The Web*.
+
+* Robertson, Stephen. [*The Differences between Digital History and Digital Humanities*](http://drstephenrobertson.com/blog-post/the-differences-between-digital-history-and-digital-humanities/). 23 May 2014.  
+
+* Blevins, Cameron. [“Digital History’s Perpetual Future Tense.”](http://dhdebates.gc.cuny.edu/debates/text/77) *Debates in the Digital Humanities: 2016*, edited by Lauren F. Klein and Matthew K. Gold, University of Minnesota Press, 2016, p. 77. 
+
+* From Nawrotzki, Kristen, and Jack Dougherty, editors. [“Part 2. The Wisdom of Crowds(Ourcing).”](https://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1) *Writing History in the Digital Age*, University of Michigan Press, 2013.
+  * Madsen-Brooks, Leslie. "'I nevertheless am a historian': Digital Historical Practice and Malpractice around Black Confederate Soldiers"
+  * Wolff, Robert. "Beyond the Historical Profession: The Historian's Craft, Popular Memory, and the Wikipedia"
 
 *Projects to Explore:*
 
--   CUNY Digital History Archive: <http://cdha.cuny.edu/>
-
--   Virtual Jamestown: <http://www.virtualjamestown.org/>
-
--   September 11 Digital Archive: <http://911digitalarchive.org/>
-
--   Bracero History Archive: <http://braceroarchive.org/>
-
--   BlackPast.org: [http://www.blackpast.org]
-
--   Roaring Twenties: <http://vectors.usc.edu/projects/index.php?project=98>
-
--   Omeka -- <http://omeka.org>
-
--   Voyages - The Trans-Atlantic Slave Trade Database - <http://slavevoyages.org/>
-
--   Walt Whitman Archive: <https://whitmanarchive.org/>
+ * [CUNY Digital History Archive](http://cdha.cuny.edu/)
+ * [Virtual Jamestown](http://www.virtualjamestown.org/)
+ * [September 11 Digital Archive](http://911digitalarchive.org/)
+ * [Bracero History Archive](http://braceroarchive.org/)
+ * [BlackPast.org](http://www.blackpast.org)
+ * [Roaring Twenties](http://vectors.usc.edu/projects/index.php?project=98)
+ * [Omeka](http://omeka.org)
+ * [Voyages - The Trans-Atlantic Slave Trade Database](http://slavevoyages.org/)
+ * [Walt Whitman Archive](https://whitmanarchive.org/)
 
 **November 20 - Infrastructure and Materiality**
-* Shannon Mattern, "Scaffolding, Hard and Soft -- Infrastructures as Critical and Generative Structures." Spheres 3: Unstable Infrastructures. <http://spheres-journal.org/scaffolding-hard-and-soft-infrastructures-as-critical-and-generative-structures/>
-* Brian Larkin, "The Politics and Poetics of Infrastructure." Annual Review of Anthropology, Vol. 42, 2013, pp. 327-343. Susan Leigh Star, "The Ethnography of Infrastructure." American Behavioral Scientist 1999; 43; 377. -- <https://www.imtfi.uci.edu/files/articles/Star.pdf>
-* Alan Liu, "Drafts for Against the Cultural Singularity (book in progress)." Alan Liu, 2 May 2016. <http://liu.english.ucsb.edu/drafts-for-against-the-cultural-singularity>
-* Benjamin Bratton, The Stack (selections)
-* Kirschenbaum, Matthew G. Mechanisms: New Media and the Forensic Imagination. Cambridge: MIT University Press, 2012. (selections)
-* Kirschenbaum, Matthew G. "Books After the Death of the Book." Public Books 31 March 2017. <http://www.publicbooks.org/books-after-the-death-of-the-book/>
-*Steven Jackson, "Rethinking Repair," in Tarleton Gillespie, Pablo Boczkowski, and Kirsten Foot, eds. *Media Technologies: Essays on Communication, Materiality and Society*. MIT Press: Cambridge MA, 2014.
-* Miriam Posner, "See No Evil." *Logic* 4 (2018). <https://logicmag.io/04-see-no-evil/>
+
+* Mattern, Shannon. [“Scaffolding, Hard and Soft – Infrastructures as Critical and Generative Structures.”](http://spheres-journal.org/scaffolding-hard-and-soft-infrastructures-as-critical-and-generative-structures/) *Spheres: Journal For Digital Culture*, no. 3, June 2016. 
+
+* Larkin, Brian. “The Politics and Poetics of Infrastructure.” *Annual Review of Anthropology*, vol. 42, 2013, pp. 327–43.
+
+* Star, Susan Leigh. [“The Ethnography of Infrastructure.”](https://www.imtfi.uci.edu/files/articles/Star.pdf) *American Behavioral Scientist*, vol. 43, no. 3, Nov. 1999, pp. 377–91.
+
+* Alan Liu, ["Drafts for Against the Cultural Singularity (book in progress)."](http://liu.english.ucsb.edu/drafts-for-against-the-cultural-singularity) *Alan Liu*, 2 May 2016. 
+
+* Bratton, Benjamin. *The Stack: On Software and Sovereignty*. The MIT Press. (selections)
+
+* Kirschenbaum, Matthew G. *Mechanisms: New Media and the Forensic Imagination*. The MIT Press, 2012. (selections)
+
+* Kirschenbaum, Matthew. [“Books After The Death Of The Book.”](http://www.publicbooks.org/books-after-the-death-of-the-book/) *Public Books*, 31 Mar. 2017.
+
+* Jackson, Steven. “Rethinking Repair.” *Media Technologies: Essays on Communication, Materiality and Society*, edited by Tarleton Gillespie and Pablo Boczkowski, The MIT Press, 2014.
+
+* Miriam Posner, ["See No Evil."](https://logicmag.io/04-see-no-evil/) *Logic*, no. 4, 2018. 
 
 **November 27 - Race and Inequality in Algorithmic Cultures**
-* Safiya Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism* (selections - PDF)
-* Virginia Eubanks, *Automating Inequality* (selections - PDF)
-* Simone Browne, *Dark Matters: On the Surveillance of Blackness* (selections - PDF)
+
+* Noble, Safiya. *Algorithms of Oppression: How Search Engines Reinforce Racism*. New York University Press, 2018. (selections - PDF)
+
+* Eubanks, Virginia. *Automating Inequality*. St. Martin’s Press, 2018. (selections - PDF)
+
+* Browne, Simone. *Dark Matters: On the Surveillance of Blackness*. Duke University Press, 2015. (selections - PDF)
 
 **FINAL PROJECT PROPOSAL DUE**
 
@@ -309,14 +376,14 @@ Projects to Explore:
   ["Father Busa's Female Punch Card Operatives"]: http://dhdebates.gc.cuny.edu/debates/text/57
   ["Blunt Instrumentalism: On Tools and Methods"]: http://dhdebates.gc.cuny.edu/debates/text/60
   ["Digital humanities as a semi-normal thing"]: https://tedunderwood.com/2017/03/30/digital-humanities-as-a-semi-normal-thing/
-  ["What's Next: The Radical, Unrealized Potential of Digital Humanities"]: http://dhdebates.gc.cuny.edu/debates/text/54
-  ["On the Origin of 'Hack' and 'Yack'"]: http://dhdebates.gc.cuny.edu/debates/text/58
+  ["What's Next: The Radical, Unrealized Potential of Digital Humanities."]: http://dhdebates.gc.cuny.edu/debates/text/54
+  ["On the Origin of 'Hack' and 'Yack.'"]: http://dhdebates.gc.cuny.edu/debates/text/58
   ["New methods need a new kind of conversation"]: https://tedunderwood.com/2018/02/28/raising-the-standards-for-computation-in-the-humanities/
   [https://quod.lib.umich.edu/d/dh/12544152.0001.001/1:5/--pastplay-teaching-and-learning-history-with-technology?g=dculture;rgn=div1;view=fulltext;xc=1#5.1]: https://quod.lib.umich.edu/d/dh/12544152.0001.001/1:5/–pastplay-teaching-and-learning-history-with-technology?g=dculture;rgn=div1;view=fulltext;xc=1#5.1
   ["Where's the Pedagogy? The Role of Teaching and Learning in the Digital Humanities"]: http://dhdebates.gc.cuny.edu/debates/text/8
   ["Digital Humanities and the 'Ugly Stepchildren' of American Higher Education"]: http://dhdebates.gc.cuny.edu/debates/text/33
   [https://www.openbookpublishers.com/product.php/161/digital-humanities-pedagogy--practices--principles-and-politics?161/digital-humanities-pedagogy--practices--principles-and-politics]: https://www.openbookpublishers.com/product.php/161/digital-humanities-pedagogy–practices–principles-and-politics?161/digital-humanities-pedagogy–practices–principles-and-politics
-  [Introduction]: http://chnm.gmu.edu/digitalhistory/introduction/
+  ["Introduction."]: http://chnm.gmu.edu/digitalhistory/introduction/
   ["The Differences between Digital History and Digital Humanities"]: http://drstephenrobertson.com/blog-post/the-differences-between-digital-history-and-digital-humanities/
   [Part 2. The Wisdom of Crowds(ourcing)]: http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1
   [http://www.blackpast.org]: http://www.blackpast.org/
