@@ -22,7 +22,8 @@ Office hours: T 3pm-4pm and by appointment
 mgold@gc.cuny.edu  
 [mkgold.net](http://mkgold.net)  
 [@mkgold](https://twitter.com/@mkgold)  
-Office hours: M 11am-12pm and by appointment  
+Office hours: T 11am-12pm and by appointment
+Office: 5307.04
 
 #### Advisory Fellows:
 
