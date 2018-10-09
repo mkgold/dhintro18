@@ -17,6 +17,7 @@ Email the class: dhintro18@groups.commons.gc.cuny.edu
 sbrier@gc.cuny.edu  
 [@stevebrier](https://twitter.com/@stevebrier)  
 Office hours: T 3pm-4pm and by appointment
+Office location: room 7301.10 (through the Student Affairs office)
 
 **Dr. Matthew K. Gold**  
 mgold@gc.cuny.edu  
