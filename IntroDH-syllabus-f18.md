@@ -62,7 +62,7 @@ Students in the course should complete the following work during the semester:
 #### Reading and Discussion (Weekly)
 Students should complete all weekly readings in advance of the class meeting and should take an active part in class discussions.
 
-#### Blogging (5 posts)
+#### Blogging (6 posts)
 
 -   Students are responsible for writing five blog posts on our shared course blog. These should be posted by Friday night so that peers have the weekend to respond before Tuesday's class.
 
@@ -70,7 +70,7 @@ Students should complete all weekly readings in advance of the class meeting and
 
     -   one post about a workshop you have attended, with the goal of helping other students understand what they may have missed and/or what you found valuable about it;
 
-    -   one post about a praxis assignment;
+    -   two post about praxis assignments;
 
     -   one post about their final project.
 
