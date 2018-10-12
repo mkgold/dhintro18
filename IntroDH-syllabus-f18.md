@@ -233,11 +233,13 @@ Qualified students with disabilities will be provided reasonable academic accomm
 
 * Witmore, Michael. ["Text: A Massively Addressable Object."](http://dhdebates.gc.cuny.edu/debates/text/28) *Debates in the Digital Humanities: 2012*, edited by Matthew K. Gold. University of Minnesota Press, 2012. 
 
-* Gavin, Michael, et al. “Spaces of Meaning: Conceptual History, Vector Semantics, and Close Reading.” *Debates in the Digital Humanities: 2019*, edited by Matthew K. Gold, University of Minnesota Press, 2019. (PDF)
-
 * Piper, Andrew “Think Small: On Literary Modeling.” *PMLA*, vol. 132, no. 3, 2017, pp. 651–58.
 
 * So, Richard Jean. "All Models are Wrong." *PMLA*, vol. 132, no. 3, May 2017, pp. 668-673.
+
+Suggested:
+
+* Gavin, Michael, et al. “Spaces of Meaning: Conceptual History, Vector Semantics, and Close Reading.” *Debates in the Digital Humanities: 2019*, edited by Matthew K. Gold, University of Minnesota Press, 2019. (PDF)
 
 **October 23 - Mapping**
 
