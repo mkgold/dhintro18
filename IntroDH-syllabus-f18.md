@@ -307,7 +307,7 @@ Projects to Explore:
 
 **November 13 - History and the Archive**
 
-* Brier, Stephen. ["Why the History of CUNY Matters: Using the CUNY Digital History Archive to Teach CUNY's Past."]( https://radicalteacher.library.pitt.edu/ojs/index.php/radicalteacher/article/view/357) *Radical Teacher*, vol. 108, 2017.
+* Brier, Stephen. ["Why the History of CUNY Matters: Using the CUNY Digital History Archive to Teach CUNY's Past."]( https://radicalteacher.library.pitt.edu/ojs/index.php/radicalteacher/article/view/357) *Radical Teacher*, vol. 108, 2017. 
 
 * Cohen, Daniel J., and Roy Rosenzweig. [“Introduction.”] *Digital History: A Guide To Gathering, Preserving, And Presenting The Past On The Web*.
 
