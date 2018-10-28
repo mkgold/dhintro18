@@ -262,6 +262,8 @@ Explore the following mapping projects:
 
 **October 30 - Visualization**
 
+**Micki Kaufman Class Visit**
+
 * Klein, Lauren F.  “The Image of Absence: Archival Silence, Data Visualization, and James Hemings.” *American Literature*, vol. 85, no. 4, 2013, pp. 661–88.
 
 * Klein, Lauren F. [“Visualization as Argument.”](http://lklein.com/2014/12/visualization-as-argument/) *Lklein*, Dec. 2014.
@@ -306,6 +308,8 @@ Projects to Explore:
 **PRAXIS ASSIGNMENT #3 (Network Analysis) Due**
 
 **November 13 - History and the Archive**
+
+**Jenny Furlong class visit**
 
 * Brier, Stephen. ["Why the History of CUNY Matters: Using the CUNY Digital History Archive to Teach CUNY's Past."]( https://radicalteacher.library.pitt.edu/ojs/index.php/radicalteacher/article/view/357) *Radical Teacher*, vol. 108, 2017. 
 
