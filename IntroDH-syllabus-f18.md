@@ -365,7 +365,7 @@ Projects to Explore:
 
 **FINAL PROJECT PROPOSAL DUE**
 
-**December 4 - Student presentations**
+**December 4 - Student presentations** (Andie Silva visit)
 
 **December 11 - Student presentations**
 
