@@ -367,7 +367,7 @@ Projects to Explore:
 
 * Blas, Zach. "Face Cages" http://www.zachblas.info/works/face-cages/ and Facial Weaponization Suite http://www.zachblas.info/works/facial-weaponization-suite/
 
-* Nakamura, Lisa. "Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture." American Quarterly, vol. 66 no. 4, 2014, pp. 919-941. Project MUSE, doi:10.1353/aq.2014.0070
+* Nakamura, Lisa. "Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture." American Quarterly, vol. 66 no. 4, 2014, pp. 919-941. Project MUSE, doi:10.1353/aq.2014.0070 (PDF)
 
 *Resources and Projects to Explore:*
 
