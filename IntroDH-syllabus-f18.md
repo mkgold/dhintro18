@@ -369,7 +369,7 @@ Projects to Explore:
 
 * Nakamura, Lisa. "Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture." American Quarterly, vol. 66 no. 4, 2014, pp. 919-941. Project MUSE, doi:10.1353/aq.2014.0070
 
-*Projects to Explore:*
+*Resources and Projects to Explore:*
 
  * [Black Digital Humanities Projects and Resources](https://docs.google.com/document/d/1rZwucjyAAR7QiEZl238_hhRPXo5-UKXt2_KCrwPZkiQ/edit#heading=h.lfar8xoosxqv)
  * [Critical Algorithm Studies: A Reading List](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/)
