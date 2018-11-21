@@ -361,7 +361,7 @@ Projects to Explore:
 
 * Eubanks, Virginia. *Automating Inequality*. St. Martin’s Press, 2018. (selections - PDF)
 
-* Browne, Simone. *Dark Matters: On the Surveillance of Blackness*. Duke University Press, 2015. (selections - PDF)
+* Browne, Simone. Race and Surveillance. *Routledge Handbook of Surveillance Studies*, Eds Ball, Kirstie, Kevin D. Haggerty, and David Lyon. 2014.
 
 * Seaver, Nick. 2013. “Knowing Algorithms.” In Media in Transition 8. Cambridge, MA. http://nickseaver.net/s/seaverMiT8.pdf
 
